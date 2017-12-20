@@ -1,0 +1,10 @@
+LEGAL/Mr/Tyrel/Ray/Matos/;HOME/209/423/6878/;HOME/8 Aggie Village APT D//Logan/Utah/84341;male;Thu May 22 19:16:09 MDT 2014;
+LEGAL/Mr/Mario/James/Johnson/;HOME/501/423/5187/;WORK/28 Aggie Village APT E//Logan/Utah/84341;male;Thu May 22 19:16:09 MDT 2014;
+LEGAL/Mr/Anthony/Michael/Hawley/;FAX/212/554/5362/;OTHER/678 N Main St//Logan/Utah/84321;male;Thu May 22 19:16:09 MDT 2014;
+LEGAL/Mr/Spencer/Michael/Beutler/;HOME/702/321/5362/;HOME/118 North Main Street//Logan/Utah/84321;male;Thu May 22 19:16:09 MDT 2014;
+LEGAL/Mr/Anthony/Joseph/Hawley/;CELL_PHONE/603/554/0743/;WORK/1550 N Main St//Logan/Utah/84341;male;Thu May 22 19:16:09 MDT 2014;
+LEGAL/Mr/Brenton/Lee/Bronson/;HOME/505/512/0245/;OTHER/442 N 175 E//Logan/Utah/84321;male;Thu May 22 19:16:09 MDT 2014;
+LEGAL/Mr/Shaun/Ray/Calderwood/;HOME/435/834/6878/;HOME/555 E 1400 N//Logan/Utah/84341;male;Thu May 22 19:16:09 MDT 2014;
+LEGAL/Mr/Tyrel/Ray/Beutler/;HOME/603/512/6878/;WORK/682 S Main St//Logan/Utah/84321;male;Thu May 22 19:16:09 MDT 2014;
+LEGAL/Mr/Brenton/Joseph/Calderwood/;FAX/505/423/6878/;OTHER/1165 N Main St//Logan/Utah/84341;male;Thu May 22 19:16:09 MDT 2014;
+LEGAL/Mr/Brenton/Joseph/Calderwood/;WORK/501/554/6878/;HOME/2281 N Main St//Logan/Utah/84341;male;Thu May 22 19:16:09 MDT 2014;

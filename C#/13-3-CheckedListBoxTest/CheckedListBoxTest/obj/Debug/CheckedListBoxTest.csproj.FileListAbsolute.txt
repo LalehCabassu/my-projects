@@ -1,0 +1,17 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\bin\Debug\CheckedListBoxTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\bin\Debug\CheckedListBoxTest.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.CheckedListBoxTestForm.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#20\20_2_CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#20\20_2_CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#20\20_2_CheckedListBoxTest\CheckedListBoxTest\bin\Debug\CheckedListBoxTest.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#20\20_2_CheckedListBoxTest\CheckedListBoxTest\bin\Debug\CheckedListBoxTest.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#20\20_2_CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.csprojResolveAssemblyReference.cache
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#20\20_2_CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.CheckedListBoxTestForm.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#20\20_2_CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.Properties.Resources.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#20\20_2_CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.csproj.GenerateResource.Cache
+C:\Users\Laleh\Documents\cs2412\Lectures\13\13-3-CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\13\13-3-CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.pdb

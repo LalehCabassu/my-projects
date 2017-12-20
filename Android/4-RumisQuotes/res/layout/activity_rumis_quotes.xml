@@ -1,0 +1,75 @@
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/myQuote01"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/background_01"
+                android:clickable="false"
+                android:editable="false"
+                android:ems="10"
+                android:inputType="none"
+                android:textSize="20sp" >
+
+                <requestFocus />
+            </EditText>
+
+            <EditText
+                android:id="@+id/myQuote02"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/background_02"
+                android:clickable="false"
+                android:editable="false"
+                android:ems="10"
+                android:inputType="none"
+                android:textSize="20sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5" >
+
+                <Button
+                    android:id="@+id/myQuoteButton"
+                    style="@style/myButtonStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="@string/myQuoteButtonLabel" />
+
+                <Button
+                    android:id="@+id/myClear01Button"
+                    style="@style/myButtonStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="@string/myClear01Label" />
+
+                <Button
+                    android:id="@+id/myClear02Button"
+                    style="@style/myButtonStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:text="@string/myClear02Label" />
+
+            </LinearLayout>
+            
+        </LinearLayout>
+
+    </ScrollView>

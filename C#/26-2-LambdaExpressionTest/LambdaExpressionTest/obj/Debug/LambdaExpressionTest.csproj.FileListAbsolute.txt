@@ -1,0 +1,6 @@
+C:\Users\Laleh\Documents\cs2412\Lectures\25\LambdaExpressionTest\LambdaExpressionTest\bin\Debug\LambdaExpressionTest.exe.config
+C:\Users\Laleh\Documents\cs2412\Lectures\25\LambdaExpressionTest\LambdaExpressionTest\bin\Debug\LambdaExpressionTest.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\25\LambdaExpressionTest\LambdaExpressionTest\bin\Debug\LambdaExpressionTest.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\25\LambdaExpressionTest\LambdaExpressionTest\obj\Debug\LambdaExpressionTest.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Documents\cs2412\Lectures\25\LambdaExpressionTest\LambdaExpressionTest\obj\Debug\LambdaExpressionTest.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\25\LambdaExpressionTest\LambdaExpressionTest\obj\Debug\LambdaExpressionTest.pdb

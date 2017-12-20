@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8c99543e-193c-4a8d-b804-30186a6fa5b3" name="Tulip@TULIP-PC 2012-12-07 21:21:52" runUser="Tulip-PC\Tulip" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="670c5c00-ed4e-414f-8521-9bfb3367e3cc">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\Users\Tulip\Desktop\VirtualWaterFight_2\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="Tulip_TULIP-PC 2012-12-07 21_21_52">
+      <DeploymentItem filename="C:\Users\Tulip\Desktop\VirtualWaterFight_2\BalloonManager\bin\Debug\BalloonManager.dll" />
+      <DeploymentItem filename="C:\Users\Tulip\Desktop\VirtualWaterFight_2\Player\bin\Debug\Player.dll" />
+      <DeploymentItem filename="C:\Users\Tulip\Desktop\VirtualWaterFight_2\Objects\bin\Debug\Objects.dll" />
+      <DeploymentItem filename="C:\Users\Tulip\Desktop\VirtualWaterFight_2\WaterManager\bin\Debug\WaterManager.dll" />
+      <DeploymentItem filename="C:\Users\Tulip\Desktop\VirtualWaterFight_2\FightManager\bin\Debug\FightManager.dll" />
+      <DeploymentItem filename="C:\Users\Tulip\Desktop\VirtualWaterFight_2\Common\bin\Debug\Common.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-12-07T21:21:52.2241004-07:00" queuing="2012-12-07T21:21:52.2414746-07:00" start="2012-12-07T21:21:52.5753614-07:00" finish="2012-12-07T22:27:29.3648931-07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="17" executed="17" passed="7" error="0" failed="10" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestJoinFightReplyDoer_Successful" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="264b1481-a403-db2c-5ba3-39affc201ea6">
+      <Execution id="faa60beb-0ef3-4fcb-980a-e56f4219a59e" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.JoinFightTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestJoinFightReplyDoer_Successful" />
+    </UnitTest>
+    <UnitTest name="TestPlayerLocationRequestDoer" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="a5402934-cdbb-5e0b-e474-c5abe7b10067">
+      <Execution id="047fd8a5-1218-45eb-982a-c0041e227369" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.PlayerLocationTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestPlayerLocationRequestDoer" />
+    </UnitTest>
+    <UnitTest name="TestJoinFightRequestDoer_Successful_Deregister" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="09aaf848-426f-2fbb-5b27-14ec033a2621">
+      <Execution id="d0b7af1d-228c-4ab3-ad21-a6f9e0a25e3d" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.JoinFightTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestJoinFightRequestDoer_Successful_Deregister" />
+    </UnitTest>
+    <UnitTest name="TestClearConversationList" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="81844865-1cba-7592-e83b-e5a5f5b28dd9">
+      <Execution id="16427687-e22a-4bda-b412-3b7cc71f45e5" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.Communicator.PlayerConversationListTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestClearConversationList" />
+    </UnitTest>
+    <UnitTest name="TestDecrementNumberOfBalloonDoer" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="afb7f333-1b7d-6ebd-5ec3-412372dbb6dc">
+      <Execution id="71c68ac7-9a6b-47af-82c0-6cbeed18a411" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.JoinFightTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDecrementNumberOfBalloonDoer" />
+    </UnitTest>
+    <UnitTest name="TestJoinFightReplyDoer_Successful_Deregister" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="55b8b39e-112e-0106-42da-8241bd64dbf6">
+      <Execution id="4c0fcaf1-4192-41cd-bdc9-59ce4f8d59a0" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.JoinFightTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestJoinFightReplyDoer_Successful_Deregister" />
+    </UnitTest>
+    <UnitTest name="TestClearConversationList" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="2e653339-8654-8651-f1cf-c8678680e73a">
+      <Execution id="7df1219d-306a-44e3-a264-fdd1e4c88f92" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.CommonTester.ManagerConversationListTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestClearConversationList" />
+    </UnitTest>
+    <UnitTest name="TestInstigateFightRequestDoer_Hit_Deregister" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="70c9907d-9819-22a2-65a4-4c03c8393de1">
+      <Execution id="0a911412-9b3c-424b-8674-49cc9fbdd12c" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.InstigateFightTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestInstigateFightRequestDoer_Hit_Deregister" />
+    </UnitTest>
+    <UnitTest name="TestJoinFightRequestDoer_Successful" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="d9f1c330-1ee6-301c-7b92-584254943714">
+      <Execution id="7eb03be9-5cb3-4f1f-b87b-1f69c92dfc91" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.JoinFightTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestJoinFightRequestDoer_Successful" />
+    </UnitTest>
+    <UnitTest name="TestInstigateFightReplyDoer_Hit" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="dbf35340-f1bd-e5d9-1d86-0d5f4240b482">
+      <Execution id="c53b6793-31cf-4f34-b677-20c42717baf1" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.InstigateFightTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestInstigateFightReplyDoer_Hit" />
+    </UnitTest>
+    <UnitTest name="PlayersOfSpecificFight" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="3c10ed3f-89f3-f336-f763-dc99be474d27">
+      <Execution id="3558a27d-6708-4749-992a-abdb16087389" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.PlayersOfSpecificFightTest, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PlayersOfSpecificFight" />
+    </UnitTest>
+    <UnitTest name="TestJoinFightReplyDoer_WrongLocation" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="92e12636-1b21-7ca5-9780-f13e9c9e6ec8">
+      <Execution id="33ee2b3f-f38d-4e06-afe4-63d62cb5370c" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.JoinFightTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestJoinFightReplyDoer_WrongLocation" />
+    </UnitTest>
+    <UnitTest name="TestRecentLocationsRequestDoer" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="7a29ba17-9484-0a86-e4d9-583f83160eb0">
+      <Execution id="9550f651-311a-4a28-841b-0a7c8ffaa6fc" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.RecentLocationsTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestRecentLocationsRequestDoer" />
+    </UnitTest>
+    <UnitTest name="TestSendReply" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="846c2bef-03bf-aedd-7b5c-2b6aaf417e72">
+      <Execution id="4a52650a-cb87-4609-922d-6ab389960e57" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ManagerConversationTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSendReply" />
+    </UnitTest>
+    <UnitTest name="TestWaterReplyDoer" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="45e7c389-6a2c-b9ad-3c77-e07427e69c14">
+      <Execution id="39b3c930-4e2e-422e-a22a-9eb6eb781f2e" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.WaterTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestWaterReplyDoer" />
+    </UnitTest>
+    <UnitTest name="TestRecentLocationsReplyDoer" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="bbcaa291-4b77-6a05-4ef7-c21e46013195">
+      <Execution id="22194e97-092c-44ec-8aa2-97c074e8f6d5" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.RecentLocationsTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestRecentLocationsReplyDoer" />
+    </UnitTest>
+    <UnitTest name="TestJoinFightReplyDoer_EmptyBalloon" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="3fb145cd-4632-9dbd-4ac1-dc0038fbf388">
+      <Execution id="e89e5416-a622-452a-969d-276cfe889aac" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.ProtocolsTester.JoinFightTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestJoinFightReplyDoer_EmptyBalloon" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="70c9907d-9819-22a2-65a4-4c03c8393de1" executionId="0a911412-9b3c-424b-8674-49cc9fbdd12c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5402934-cdbb-5e0b-e474-c5abe7b10067" executionId="047fd8a5-1218-45eb-982a-c0041e227369" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3c10ed3f-89f3-f336-f763-dc99be474d27" executionId="3558a27d-6708-4749-992a-abdb16087389" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="81844865-1cba-7592-e83b-e5a5f5b28dd9" executionId="16427687-e22a-4bda-b412-3b7cc71f45e5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="45e7c389-6a2c-b9ad-3c77-e07427e69c14" executionId="39b3c930-4e2e-422e-a22a-9eb6eb781f2e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="846c2bef-03bf-aedd-7b5c-2b6aaf417e72" executionId="4a52650a-cb87-4609-922d-6ab389960e57" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2e653339-8654-8651-f1cf-c8678680e73a" executionId="7df1219d-306a-44e3-a264-fdd1e4c88f92" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7a29ba17-9484-0a86-e4d9-583f83160eb0" executionId="9550f651-311a-4a28-841b-0a7c8ffaa6fc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dbf35340-f1bd-e5d9-1d86-0d5f4240b482" executionId="c53b6793-31cf-4f34-b677-20c42717baf1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="92e12636-1b21-7ca5-9780-f13e9c9e6ec8" executionId="33ee2b3f-f38d-4e06-afe4-63d62cb5370c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3fb145cd-4632-9dbd-4ac1-dc0038fbf388" executionId="e89e5416-a622-452a-969d-276cfe889aac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="264b1481-a403-db2c-5ba3-39affc201ea6" executionId="faa60beb-0ef3-4fcb-980a-e56f4219a59e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="09aaf848-426f-2fbb-5b27-14ec033a2621" executionId="d0b7af1d-228c-4ab3-ad21-a6f9e0a25e3d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="afb7f333-1b7d-6ebd-5ec3-412372dbb6dc" executionId="71c68ac7-9a6b-47af-82c0-6cbeed18a411" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d9f1c330-1ee6-301c-7b92-584254943714" executionId="7eb03be9-5cb3-4f1f-b87b-1f69c92dfc91" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="55b8b39e-112e-0106-42da-8241bd64dbf6" executionId="4c0fcaf1-4192-41cd-bdc9-59ce4f8d59a0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bbcaa291-4b77-6a05-4ef7-c21e46013195" executionId="22194e97-092c-44ec-8aa2-97c074e8f6d5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0a911412-9b3c-424b-8674-49cc9fbdd12c" testId="70c9907d-9819-22a2-65a4-4c03c8393de1" testName="TestInstigateFightRequestDoer_Hit_Deregister" computerName="TULIP-PC" duration="00:01:53.7667166" startTime="2012-12-07T21:21:52.8321974-07:00" endTime="2012-12-07T21:24:10.1498703-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0a911412-9b3c-424b-8674-49cc9fbdd12c">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;0&gt;. Actual:&lt;1&gt;. </Message>
+          <StackTrace>   at TestVirtualWaterFight.ProtocolsTester.InstigateFightTester.TestInstigateFightRequestDoer_Hit_Deregister() in C:\Users\Tulip\Desktop\VirtualWaterFight_2\TestVirtualWaterFight\ProtocolsTester\InstigateFightTester.cs:line 77
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="047fd8a5-1218-45eb-982a-c0041e227369" testId="a5402934-cdbb-5e0b-e474-c5abe7b10067" testName="TestPlayerLocationRequestDoer" computerName="TULIP-PC" duration="00:00:36.3665113" startTime="2012-12-07T21:24:10.2566603-07:00" endTime="2012-12-07T21:24:42.5351260-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="047fd8a5-1218-45eb-982a-c0041e227369">
+    </UnitTestResult>
+    <UnitTestResult executionId="3558a27d-6708-4749-992a-abdb16087389" testId="3c10ed3f-89f3-f336-f763-dc99be474d27" testName="PlayersOfSpecificFight" computerName="TULIP-PC" duration="00:28:16.2477961" startTime="2012-12-07T21:24:42.5708617-07:00" endTime="2012-12-07T21:53:56.4767142-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3558a27d-6708-4749-992a-abdb16087389">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestVirtualWaterFight.ProtocolsTester.PlayersOfSpecificFightTest.PlayersOfSpecificFight threw exception: 
+System.InvalidOperationException: Sequence contains no elements</Message>
+          <StackTrace>    at System.Linq.Enumerable.Last[TSource](IEnumerable`1 source)
+   at TestVirtualWaterFight.ProtocolsTester.PlayersOfSpecificFightTest.PlayersOfSpecificFight() in C:\Users\Tulip\Desktop\VirtualWaterFight_2\TestVirtualWaterFight\ProtocolsTester\PlayersOfSpecificFightTest.cs:line 55
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="16427687-e22a-4bda-b412-3b7cc71f45e5" testId="81844865-1cba-7592-e83b-e5a5f5b28dd9" testName="TestClearConversationList" computerName="TULIP-PC" duration="00:03:18.2147455" startTime="2012-12-07T21:53:56.6194428-07:00" endTime="2012-12-07T21:57:23.0410044-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="16427687-e22a-4bda-b412-3b7cc71f45e5">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;0&gt;. Actual:&lt;2&gt;. </Message>
+          <StackTrace>   at TestVirtualWaterFight.Communicator.PlayerConversationListTester.TestClearConversationList() in C:\Users\Tulip\Desktop\VirtualWaterFight_2\TestVirtualWaterFight\CommonTester\PlayerConversationListTester.cs:line 155
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="39b3c930-4e2e-422e-a22a-9eb6eb781f2e" testId="45e7c389-6a2c-b9ad-3c77-e07427e69c14" testName="TestWaterReplyDoer" computerName="TULIP-PC" duration="00:00:23.5986525" startTime="2012-12-07T21:57:23.0865618-07:00" endTime="2012-12-07T21:57:45.6223583-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="39b3c930-4e2e-422e-a22a-9eb6eb781f2e">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestVirtualWaterFight.ProtocolsTester.WaterTester.TestWaterReplyDoer threw exception: 
+System.InvalidOperationException: Sequence contains no elements</Message>
+          <StackTrace>    at System.Linq.Enumerable.Last[TSource](IEnumerable`1 source)
+   at TestVirtualWaterFight.ProtocolsTester.WaterTester.TestWaterReplyDoer() in C:\Users\Tulip\Desktop\VirtualWaterFight_2\TestVirtualWaterFight\ProtocolsTester\WaterTester.cs:line 63
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4a52650a-cb87-4609-922d-6ab389960e57" testId="846c2bef-03bf-aedd-7b5c-2b6aaf417e72" testName="TestSendReply" computerName="TULIP-PC" duration="00:00:00.0329082" startTime="2012-12-07T21:57:45.6800867-07:00" endTime="2012-12-07T21:57:45.7227899-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4a52650a-cb87-4609-922d-6ab389960e57">
+    </UnitTestResult>
+    <UnitTestResult executionId="7df1219d-306a-44e3-a264-fdd1e4c88f92" testId="2e653339-8654-8651-f1cf-c8678680e73a" testName="TestClearConversationList" computerName="TULIP-PC" duration="00:03:19.9406664" startTime="2012-12-07T21:57:45.7283255-07:00" endTime="2012-12-07T22:01:13.3722178-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7df1219d-306a-44e3-a264-fdd1e4c88f92">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;0&gt;. Actual:&lt;2&gt;. </Message>
+          <StackTrace>   at TestVirtualWaterFight.CommonTester.ManagerConversationListTester.TestClearConversationList() in C:\Users\Tulip\Desktop\VirtualWaterFight_2\TestVirtualWaterFight\CommonTester\ManagerConversationListTester.cs:line 155
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9550f651-311a-4a28-841b-0a7c8ffaa6fc" testId="7a29ba17-9484-0a86-e4d9-583f83160eb0" testName="TestRecentLocationsRequestDoer" computerName="TULIP-PC" duration="00:03:52.8788088" startTime="2012-12-07T22:01:13.4566478-07:00" endTime="2012-12-07T22:05:15.7321497-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9550f651-311a-4a28-841b-0a7c8ffaa6fc">
+      <Output>
+        <StdOut>Attempt to read beyond read limit</StdOut>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;1&gt;. Actual:&lt;2&gt;. </Message>
+          <StackTrace>   at TestVirtualWaterFight.ProtocolsTester.RecentLocationsTester.TestRecentLocationsRequestDoer() in C:\Users\Tulip\Desktop\VirtualWaterFight_2\TestVirtualWaterFight\ProtocolsTester\RecentLocationsTester.cs:line 39
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c53b6793-31cf-4f34-b677-20c42717baf1" testId="dbf35340-f1bd-e5d9-1d86-0d5f4240b482" testName="TestInstigateFightReplyDoer_Hit" computerName="TULIP-PC" duration="00:04:12.8343176" startTime="2012-12-07T22:05:15.9637374-07:00" endTime="2012-12-07T22:09:36.9016210-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c53b6793-31cf-4f34-b677-20c42717baf1">
+    </UnitTestResult>
+    <UnitTestResult executionId="33ee2b3f-f38d-4e06-afe4-63d62cb5370c" testId="92e12636-1b21-7ca5-9780-f13e9c9e6ec8" testName="TestJoinFightReplyDoer_WrongLocation" computerName="TULIP-PC" duration="00:01:31.8341181" startTime="2012-12-07T22:09:36.9328710-07:00" endTime="2012-12-07T22:11:14.1294337-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="33ee2b3f-f38d-4e06-afe4-63d62cb5370c">
+    </UnitTestResult>
+    <UnitTestResult executionId="e89e5416-a622-452a-969d-276cfe889aac" testId="3fb145cd-4632-9dbd-4ac1-dc0038fbf388" testName="TestJoinFightReplyDoer_EmptyBalloon" computerName="TULIP-PC" duration="00:02:29.3504461" startTime="2012-12-07T22:11:14.1538243-07:00" endTime="2012-12-07T22:13:46.7134516-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e89e5416-a622-452a-969d-276cfe889aac">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;1&gt;. Actual:&lt;0&gt;. </Message>
+          <StackTrace>   at TestVirtualWaterFight.ProtocolsTester.JoinFightTester.TestJoinFightReplyDoer_EmptyBalloon() in C:\Users\Tulip\Desktop\VirtualWaterFight_2\TestVirtualWaterFight\ProtocolsTester\JoinFightTester.cs:line 487
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="faa60beb-0ef3-4fcb-980a-e56f4219a59e" testId="264b1481-a403-db2c-5ba3-39affc201ea6" testName="TestJoinFightReplyDoer_Successful" computerName="TULIP-PC" duration="00:02:21.2882163" startTime="2012-12-07T22:13:46.7964595-07:00" endTime="2012-12-07T22:16:13.2975203-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="faa60beb-0ef3-4fcb-980a-e56f4219a59e">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestVirtualWaterFight.ProtocolsTester.JoinFightTester.TestJoinFightReplyDoer_Successful threw exception: 
+System.InvalidOperationException: Sequence contains no elements</Message>
+          <StackTrace>    at System.Linq.Enumerable.Last[TSource](IEnumerable`1 source)
+   at TestVirtualWaterFight.ProtocolsTester.JoinFightTester.TestJoinFightReplyDoer_Successful() in C:\Users\Tulip\Desktop\VirtualWaterFight_2\TestVirtualWaterFight\ProtocolsTester\JoinFightTester.cs:line 289
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d0b7af1d-228c-4ab3-ad21-a6f9e0a25e3d" testId="09aaf848-426f-2fbb-5b27-14ec033a2621" testName="TestJoinFightRequestDoer_Successful_Deregister" computerName="TULIP-PC" duration="00:03:48.7267123" startTime="2012-12-07T22:16:13.3404890-07:00" endTime="2012-12-07T22:20:10.2462751-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d0b7af1d-228c-4ab3-ad21-a6f9e0a25e3d">
+    </UnitTestResult>
+    <UnitTestResult executionId="71c68ac7-9a6b-47af-82c0-6cbeed18a411" testId="afb7f333-1b7d-6ebd-5ec3-412372dbb6dc" testName="TestDecrementNumberOfBalloonDoer" computerName="TULIP-PC" duration="00:03:48.5777340" startTime="2012-12-07T22:20:10.2804548-07:00" endTime="2012-12-07T22:24:07.0123327-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="71c68ac7-9a6b-47af-82c0-6cbeed18a411">
+    </UnitTestResult>
+    <UnitTestResult executionId="7eb03be9-5cb3-4f1f-b87b-1f69c92dfc91" testId="d9f1c330-1ee6-301c-7b92-584254943714" testName="TestJoinFightRequestDoer_Successful" computerName="TULIP-PC" duration="00:02:39.9252502" startTime="2012-12-07T22:24:07.0416296-07:00" endTime="2012-12-07T22:26:53.3368675-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7eb03be9-5cb3-4f1f-b87b-1f69c92dfc91">
+    </UnitTestResult>
+    <UnitTestResult executionId="4c0fcaf1-4192-41cd-bdc9-59ce4f8d59a0" testId="55b8b39e-112e-0106-42da-8241bd64dbf6" testName="TestJoinFightReplyDoer_Successful_Deregister" computerName="TULIP-PC" duration="00:00:17.4275429" startTime="2012-12-07T22:26:53.3744645-07:00" endTime="2012-12-07T22:27:10.6525066-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4c0fcaf1-4192-41cd-bdc9-59ce4f8d59a0">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestVirtualWaterFight.ProtocolsTester.JoinFightTester.TestJoinFightReplyDoer_Successful_Deregister threw exception: 
+System.InvalidOperationException: Sequence contains no elements</Message>
+          <StackTrace>    at System.Linq.Enumerable.Last[TSource](IEnumerable`1 source)
+   at TestVirtualWaterFight.ProtocolsTester.JoinFightTester.TestJoinFightReplyDoer_Successful_Deregister() in C:\Users\Tulip\Desktop\VirtualWaterFight_2\TestVirtualWaterFight\ProtocolsTester\JoinFightTester.cs:line 328
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="22194e97-092c-44ec-8aa2-97c074e8f6d5" testId="bbcaa291-4b77-6a05-4ef7-c21e46013195" testName="TestRecentLocationsReplyDoer" computerName="TULIP-PC" duration="00:00:17.4813372" startTime="2012-12-07T22:27:10.6699086-07:00" endTime="2012-12-07T22:27:28.6353027-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="22194e97-092c-44ec-8aa2-97c074e8f6d5">
+      <Output>
+        <StdOut>Attempt to read beyond read limit</StdOut>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;1&gt;. Actual:&lt;2&gt;. </Message>
+          <StackTrace>   at TestVirtualWaterFight.ProtocolsTester.RecentLocationsTester.TestRecentLocationsReplyDoer() in C:\Users\Tulip\Desktop\VirtualWaterFight_2\TestVirtualWaterFight\ProtocolsTester\RecentLocationsTester.cs:line 65
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

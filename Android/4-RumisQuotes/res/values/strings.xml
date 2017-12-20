@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rumis Quotes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="myQuoteButtonLabel">      Quote      </string>
+    <string name="myClear01Label">Clear Area 01</string>
+    <string name="myClear02Label">Clear Area 02</string>
+    
+    <string name="rumi_quote_01">Start a huge, foolish project, like Noah;&#8230;\n it makes no difference what people think of you.</string>
+    <string name="rumi_quote_02">Why do you stay in prison when the door is so wide open?</string>
+    <string name="rumi_quote_03">Don\'t grieve. Anything you lose comes round in another form.</string>
+    <string name="rumi_quote_04">As you start to walk on the way, the way appears.</string>
+    <string name="rumi_quote_05">The wound is the place where the Light enters you.</string>
+    <string name="rumi_quote_06">Wear gratitude like a cloak and it will feed every corner of you life.</string>
+    <string name="rumi_quote_07">If you are irritated by every rub, how will you be polished?</string>
+   
+</resources>

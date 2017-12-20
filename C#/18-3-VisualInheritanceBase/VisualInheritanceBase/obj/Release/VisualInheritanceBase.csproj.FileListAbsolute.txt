@@ -1,0 +1,7 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_45\VisualInheritanceBase\VisualInheritanceBase\bin\Release\VisualInheritanceBase.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_45\VisualInheritanceBase\VisualInheritanceBase\bin\Release\VisualInheritanceBase.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_45\VisualInheritanceBase\VisualInheritanceBase\obj\Release\VisualInheritanceBase.VisualInheritanceBaseForm.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_45\VisualInheritanceBase\VisualInheritanceBase\obj\Release\VisualInheritanceBase.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_45\VisualInheritanceBase\VisualInheritanceBase\obj\Release\VisualInheritanceBase.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_45\VisualInheritanceBase\VisualInheritanceBase\obj\Release\VisualInheritanceBase.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_45\VisualInheritanceBase\VisualInheritanceBase\obj\Release\VisualInheritanceBase.pdb

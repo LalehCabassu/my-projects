@@ -1,0 +1,11 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch22\Fig22_09\Stack\Stack\bin\Debug\Stack.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch22\Fig22_09\Stack\Stack\bin\Debug\Stack.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch22\Fig22_09\Stack\Stack\obj\Debug\Stack.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch22\Fig22_09\Stack\Stack\obj\Debug\Stack.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#16\16_3_GenericStack\Stack\obj\Debug\Stack.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#16\16_3_GenericStack\Stack\obj\Debug\Stack.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\22\22-1-GenericStack\Stack\obj\Debug\Stack.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\22\22-1-GenericStack\Stack\obj\Debug\Stack.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\22\22-1-GenericStack\Stack\bin\Debug\Stack.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\22\22-1-GenericStack\Stack\bin\Debug\Stack.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\22\22-1-GenericStack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache

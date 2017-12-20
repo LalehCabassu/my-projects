@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="Register">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fightManagerId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fightManagerName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="operatorName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="operatorEmail" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RegisterResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RegisterResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LogNewGame">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fightManagerId" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="gameId" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="start" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LogNewGameResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LogNewGameResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LogGameStats">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fightManagerId" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="gameId" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="stats" type="tns:GameStats" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="GameStats">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Timestamp" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="GameStatus" type="tns:PossibleGameStates" />
+          <s:element minOccurs="1" maxOccurs="1" name="CurrentNumberOfPlayers" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="LargestNumberOfPlayers" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="NumberOfBalloonsThrown" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="NumberOfBalloonsThatHit" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="AmountOfWaterThrown" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="AmountOfWaterThatHit" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Winner" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:simpleType name="PossibleGameStates">
+        <s:restriction base="s:string">
+          <s:enumeration value="InProgress" />
+          <s:enumeration value="Won" />
+          <s:enumeration value="Cancelled" />
+        </s:restriction>
+      </s:simpleType>
+      <s:element name="LogGameStatsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LogGameStatsResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetServerTime">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetServerTimeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetServerTimeResult" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRegisterFightManagers">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetRegisterFightManagersResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetRegisterFightManagersResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetGameIds">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fightManagerId" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetGameIdsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetGameIdsResult" type="tns:ArrayOfInt" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfInt">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="int" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetGameStats">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fightManagerId" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="gameId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetGameStatsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetGameStatsResult" type="tns:ArrayOfGameStats" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfGameStats">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="GameStats" nillable="true" type="tns:GameStats" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="RegisterSoapIn">
+    <wsdl:part name="parameters" element="tns:Register" />
+  </wsdl:message>
+  <wsdl:message name="RegisterSoapOut">
+    <wsdl:part name="parameters" element="tns:RegisterResponse" />
+  </wsdl:message>
+  <wsdl:message name="LogNewGameSoapIn">
+    <wsdl:part name="parameters" element="tns:LogNewGame" />
+  </wsdl:message>
+  <wsdl:message name="LogNewGameSoapOut">
+    <wsdl:part name="parameters" element="tns:LogNewGameResponse" />
+  </wsdl:message>
+  <wsdl:message name="LogGameStatsSoapIn">
+    <wsdl:part name="parameters" element="tns:LogGameStats" />
+  </wsdl:message>
+  <wsdl:message name="LogGameStatsSoapOut">
+    <wsdl:part name="parameters" element="tns:LogGameStatsResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetServerTimeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetServerTime" />
+  </wsdl:message>
+  <wsdl:message name="GetServerTimeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetServerTimeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetRegisterFightManagersSoapIn">
+    <wsdl:part name="parameters" element="tns:GetRegisterFightManagers" />
+  </wsdl:message>
+  <wsdl:message name="GetRegisterFightManagersSoapOut">
+    <wsdl:part name="parameters" element="tns:GetRegisterFightManagersResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetGameIdsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetGameIds" />
+  </wsdl:message>
+  <wsdl:message name="GetGameIdsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetGameIdsResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetGameStatsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetGameStats" />
+  </wsdl:message>
+  <wsdl:message name="GetGameStatsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetGameStatsResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WFStatsSoap">
+    <wsdl:operation name="Register">
+      <wsdl:input message="tns:RegisterSoapIn" />
+      <wsdl:output message="tns:RegisterSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LogNewGame">
+      <wsdl:input message="tns:LogNewGameSoapIn" />
+      <wsdl:output message="tns:LogNewGameSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LogGameStats">
+      <wsdl:input message="tns:LogGameStatsSoapIn" />
+      <wsdl:output message="tns:LogGameStatsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetServerTime">
+      <wsdl:input message="tns:GetServerTimeSoapIn" />
+      <wsdl:output message="tns:GetServerTimeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetRegisterFightManagers">
+      <wsdl:input message="tns:GetRegisterFightManagersSoapIn" />
+      <wsdl:output message="tns:GetRegisterFightManagersSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetGameIds">
+      <wsdl:input message="tns:GetGameIdsSoapIn" />
+      <wsdl:output message="tns:GetGameIdsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetGameStats">
+      <wsdl:input message="tns:GetGameStatsSoapIn" />
+      <wsdl:output message="tns:GetGameStatsSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WFStatsSoap" type="tns:WFStatsSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Register">
+      <soap:operation soapAction="http://tempuri.org/Register" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LogNewGame">
+      <soap:operation soapAction="http://tempuri.org/LogNewGame" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LogGameStats">
+      <soap:operation soapAction="http://tempuri.org/LogGameStats" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetServerTime">
+      <soap:operation soapAction="http://tempuri.org/GetServerTime" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRegisterFightManagers">
+      <soap:operation soapAction="http://tempuri.org/GetRegisterFightManagers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetGameIds">
+      <soap:operation soapAction="http://tempuri.org/GetGameIds" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetGameStats">
+      <soap:operation soapAction="http://tempuri.org/GetGameStats" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WFStatsSoap12" type="tns:WFStatsSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Register">
+      <soap12:operation soapAction="http://tempuri.org/Register" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LogNewGame">
+      <soap12:operation soapAction="http://tempuri.org/LogNewGame" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LogGameStats">
+      <soap12:operation soapAction="http://tempuri.org/LogGameStats" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetServerTime">
+      <soap12:operation soapAction="http://tempuri.org/GetServerTime" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRegisterFightManagers">
+      <soap12:operation soapAction="http://tempuri.org/GetRegisterFightManagers" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetGameIds">
+      <soap12:operation soapAction="http://tempuri.org/GetGameIds" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetGameStats">
+      <soap12:operation soapAction="http://tempuri.org/GetGameStats" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WFStats">
+    <wsdl:port name="WFStatsSoap" binding="tns:WFStatsSoap">
+      <soap:address location="http://swcwin.serv.usu.edu:5200/WFStats.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WFStatsSoap12" binding="tns:WFStatsSoap12">
+      <soap12:address location="http://swcwin.serv.usu.edu:5200/WFStats.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

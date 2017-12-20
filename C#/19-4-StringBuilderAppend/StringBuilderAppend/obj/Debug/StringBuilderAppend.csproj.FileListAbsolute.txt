@@ -1,0 +1,13 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_11\StringBuilderAppend\StringBuilderAppend\bin\Debug\StringBuilderAppend.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_11\StringBuilderAppend\StringBuilderAppend\bin\Debug\StringBuilderAppend.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_11\StringBuilderAppend\StringBuilderAppend\obj\Debug\StringBuilderAppend.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_11\StringBuilderAppend\StringBuilderAppend\obj\Debug\StringBuilderAppend.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#6\06_4_StringBuilderAppend\StringBuilderAppend\obj\Debug\StringBuilderAppend.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#6\06_4_StringBuilderAppend\StringBuilderAppend\obj\Debug\StringBuilderAppend.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#6\06_4_StringBuilderAppend\StringBuilderAppend\bin\Debug\StringBuilderAppend.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#6\06_4_StringBuilderAppend\StringBuilderAppend\bin\Debug\StringBuilderAppend.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_4_StringBuilderAppend\StringBuilderAppend\bin\Debug\StringBuilderAppend.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_4_StringBuilderAppend\StringBuilderAppend\bin\Debug\StringBuilderAppend.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_4_StringBuilderAppend\StringBuilderAppend\obj\Debug\StringBuilderAppend.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_4_StringBuilderAppend\StringBuilderAppend\obj\Debug\StringBuilderAppend.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_4_StringBuilderAppend\StringBuilderAppend\obj\Debug\StringBuilderAppend.pdb

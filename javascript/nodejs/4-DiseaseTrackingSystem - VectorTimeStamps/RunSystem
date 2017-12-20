@@ -1,0 +1,46 @@
+#!/bin/bash
+# Run the whole system
+
+# Start up the DOA's
+# Command Line Arguments:
+#	UDP port number
+# 	process id
+#	disease number
+#   time to stay alive (in ms)
+#
+/usr/local/bin/node DOA/analyzer 2411 12 1 200 40000 &
+/usr/local/bin/node DOA/analyzer 2412 13 2 200 40000 &
+/usr/local/bin/node DOA/analyzer 2413 14 3 200 40000 &
+
+# Start up the HDS's
+# Command Line Arguments:
+#	http port number
+# 	process id
+#   time to stay alive (in ms)
+#
+/usr/local/bin/node HDS/bin/www 2401 9 40000 &
+/usr/local/bin/node HDS/bin/www 2402 10 40000 &
+/usr/local/bin/node HDS/bin/www 2403 11 40000 &
+
+# Start up the EMR's
+# Command Line Arguments:
+# 	process id
+#	server ip address
+#	server http port
+#	starting rate (notifications/second)
+#	end rate (notification/second)
+#	acceleration (decrease in interval frequency, in terms of ms / second)
+#   time to stay alive (in ms)
+#
+/usr/local/bin/node EMR/Simuilator.js 0 127.0.0.1 2401  2 30 25  30000 &
+/usr/local/bin/node EMR/Simuilator.js 1 127.0.0.1 2401  1 40 25  30000 &
+
+/usr/local/bin/node EMR/Simuilator.js 2 127.0.0.1 2402  2 40 25  30000 &
+/usr/local/bin/node EMR/Simuilator.js 3 127.0.0.1 2402  3 50 25  30000 &
+/usr/local/bin/node EMR/Simuilator.js 4 127.0.0.1 2402  4 60 25  30000 &
+/usr/local/bin/node EMR/Simuilator.js 5 127.0.0.1 2402  1 50 25  30000 &
+
+/usr/local/bin/node EMR/Simuilator.js 6 127.0.0.1 2403  1 10 25  30000 &
+/usr/local/bin/node EMR/Simuilator.js 7 127.0.0.1 2403  2 10 25  30000 &
+/usr/local/bin/node EMR/Simuilator.js 8 127.0.0.1 2403  4 10 25  30000 &
+

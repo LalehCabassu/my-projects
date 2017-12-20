@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Toast Buttons</string>
+    <string name="menu_settings">Settings</string>
+    <string name="myRightButtonString">RIGHT</string>
+    <string name="myLeftButtonString">LEFT</string>
+    <string name="myLeftToastingString">Toasting Button LEFT</string>
+    <string name="myRightToastingString">Toasting Button RIGHT</string>
+    <string name="myLeftEditTextString">Texting Button LEFT</string>
+    <string name="myRightEditTextString">Texting Button RIGHT</string>
+
+</resources>

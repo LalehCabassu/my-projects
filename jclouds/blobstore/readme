@@ -1,0 +1,50 @@
+Parameters:
+Syntax is: "provider" "identity" "credential" "action" "container" "blob"";
+
+Actions:
+There are not case sensitive.
+LISTCONTAINERS,
+LISTBLOBS,
+ADDCONTAINER,
+ADDDIRECTORY,
+ADDBLOB,
+REMOVECONTAINER,
+REMOVEDIRECTORY,
+REMOVEBLOB;
+
+Examples:
+aws-s3 identity credential removedirectory tulip-s3-00 folder0
+
+1- ListContainers:
+"container" and "blob" will be ignored for this action.
+aws-s3 identity credential ListContainers tulip-s3-00 folder0
+
+2- ListBlobs:
+"blob" will be ignored for this action.
+aws-s3 identity credential ListBlobs tulip-s3-00 folder0
+
+3- AddContainer:
+aws-s3 identity credential ListBlobs tulip-s3-00 folder0
+
+4- AddContainer:
+"blob" will be ignored for this action.
+aws-s3 identity credential AddContainer tulip-s3-00 folder0
+
+5- AddDirectory:
+aws-s3 identity credential AddDirectory tulip-s3-00 folder0
+
+6- AddBlob:
+aws-s3 identity credential AddBlob tulip-s3-00 file0
+aws-s3 identity credential AddBlob tulip-s3-00 folder0/file0
+
+7- RemoveContainer:
+"blob" will be ignored for this action.
+aws-s3 identity credential RemoveContainer tulip-s3-00 file0
+
+8- RemoveDirectory:
+The directory must be empty.
+aws-s3 identity credential RemoveDirectory tulip-s3-00 folder0
+
+9- RemoveBlob:
+aws-s3 identity credential RemoveBlob tulip-s3-00 file0
+aws-s3 identity credential RemoveBlob tulip-s3-00 folder0/file0

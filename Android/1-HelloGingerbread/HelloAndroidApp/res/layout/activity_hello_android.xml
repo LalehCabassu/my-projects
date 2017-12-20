@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/android_icon_large"
+    >
+
+    <TextView
+        style="@style/hello_android_tv_style"
+        
+        android:text="@string/hello_android"
+        tools:context=".HelloAndroidAct" />
+
+    <Button
+        android:id="@+id/my_first_button"
+        style="@style/hello_android_button_style"
+        android:text="@string/my_fist_button_text" />
+
+</RelativeLayout>

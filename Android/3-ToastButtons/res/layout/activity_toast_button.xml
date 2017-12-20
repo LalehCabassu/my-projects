@@ -1,0 +1,66 @@
+<!-- 
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroung"
+    tools:context=".ToastButton" >
+
+    <Button
+        android:id="@+id/myRightButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/myRightButtonString" />
+
+    <Button
+        android:id="@+id/myLeftButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/myRightButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/myLeftButtonString" />
+
+</RelativeLayout>
+ -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mMainLinLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroung"
+    android:orientation ="vertical"
+    tools:context=".ToastButton" >
+    <LinearLayout   
+        android:id="@+id/mButtonLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        
+        <Button
+            android:id="@+id/myLeftButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight=".5"
+            android:text="@string/myLeftButtonString" />
+
+        <Button
+            android:id="@+id/myRightButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight=".5"
+            android:text="@string/myRightButtonString" />
+    </LinearLayout>
+	<EditText
+        android:id="@+id/myEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" 
+        android:inputType="text"
+        >
+        <requestFocus />
+    </EditText>
+</LinearLayout>
+ 

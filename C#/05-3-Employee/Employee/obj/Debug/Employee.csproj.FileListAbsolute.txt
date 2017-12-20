@@ -1,0 +1,9 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch10\fig10_07_09\Employee\Employee\bin\Debug\Employee.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch10\fig10_07_09\Employee\Employee\bin\Debug\Employee.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch10\fig10_07_09\Employee\Employee\obj\Debug\Employee.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch10\fig10_07_09\Employee\Employee\obj\Debug\Employee.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#7\07_4_Employee\Employee\obj\Debug\Employee.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#7\07_4_Employee\Employee\obj\Debug\Employee.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#7\07_4_Employee\Employee\bin\Debug\Employee.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#7\07_4_Employee\Employee\bin\Debug\Employee.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#7\07_4_Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache

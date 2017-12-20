@@ -1,0 +1,22 @@
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#24\24_1_UsingMDI\UsingMDI\bin\Debug\UsingMDI.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#24\24_1_UsingMDI\UsingMDI\bin\Debug\UsingMDI.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#24\24_1_UsingMDI\UsingMDI\obj\Debug\UsingMDI.csprojResolveAssemblyReference.cache
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#24\24_1_UsingMDI\UsingMDI\obj\Debug\UsingMDI.ChildForm.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#24\24_1_UsingMDI\UsingMDI\obj\Debug\UsingMDI.UsingMDIForm.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#24\24_1_UsingMDI\UsingMDI\obj\Debug\UsingMDI.Properties.Resources.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#24\24_1_UsingMDI\UsingMDI\obj\Debug\UsingMDI.csproj.GenerateResource.Cache
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#24\24_1_UsingMDI\UsingMDI\obj\Debug\UsingMDI.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\Lectures\#24\24_1_UsingMDI\UsingMDI\obj\Debug\UsingMDI.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\17\24_1_UsingMDI\UsingMDI\obj\Debug\UsingMDI.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\17\24_1_UsingMDI\UsingMDI\obj\Debug\UsingMDI.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\17\17-3-UsingMDI\UsingMDI\obj\Debug\UsingMDI.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\17\17-3-UsingMDI\UsingMDI\obj\Debug\UsingMDI.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\17\17-3-UsingMDI\UsingMDI\bin\Debug\UsingMDI.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\17\17-3-UsingMDI\UsingMDI\bin\Debug\UsingMDI.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\17\17-3-UsingMDI\UsingMDI\obj\Debug\UsingMDI.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Documents\cs2412\Lectures\17\17-3-UsingMDI\UsingMDI\obj\Debug\UsingMDI.ChildForm.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\17\17-3-UsingMDI\UsingMDI\obj\Debug\UsingMDI.UsingMDIForm.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\17\17-3-UsingMDI\UsingMDI\obj\Debug\UsingMDI.Properties.Resources.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\17\17-3-UsingMDI\UsingMDI\obj\Debug\UsingMDI.csproj.GenerateResource.Cache
+C:\Users\Laleh\Documents\cs2412\Lectures\18\18-1-UsingMDI\UsingMDI\obj\Debug\UsingMDI.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\18\18-1-UsingMDI\UsingMDI\obj\Debug\UsingMDI.pdb

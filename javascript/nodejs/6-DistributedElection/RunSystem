@@ -1,0 +1,19 @@
+#!/bin/bash
+# Run the whole system
+
+# Start up the NS's
+# Command Line Arguments:
+#	TCP port number
+#
+/usr/local/bin/node NS/bin/www 2499  40 3000000 &
+
+# Start up the Node's
+# Command Line Arguments:
+#	TCP port number
+#   name server ip
+#   name server port
+#
+/usr/local/bin/node Node/bin/www 2400 127.0.0.1 2499 &
+/usr/local/bin/node Node/bin/www 2401 127.0.0.1 2499 &
+/usr/local/bin/node Node/bin/www 2402 127.0.0.1 2499 &
+/usr/local/bin/node Node/bin/www 2403 127.0.0.1 2499 &

@@ -1,0 +1,19 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_24\GroupBoxPanelExample\GroupBoxPanelExample\bin\Debug\GroupBoxPanelExample.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_24\GroupBoxPanelExample\GroupBoxPanelExample\bin\Debug\GroupBoxPanelExample.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_24\GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.GroupBoxPanelExampleForm.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_24\GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_24\GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_24\GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_24\GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\GroupBoxPanelExample\GroupBoxPanelExample\bin\Debug\GroupBoxPanelExample.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\GroupBoxPanelExample\GroupBoxPanelExample\bin\Debug\GroupBoxPanelExample.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.csprojResolveAssemblyReference.cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.GroupBoxPanelExampleForm.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.Properties.Resources.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.csproj.GenerateResource.Cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\12_3_GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\12_3_GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\09\12_3_GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\09\12_3_GroupBoxPanelExample\GroupBoxPanelExample\obj\x86\Debug\GroupBoxPanelExample.pdb

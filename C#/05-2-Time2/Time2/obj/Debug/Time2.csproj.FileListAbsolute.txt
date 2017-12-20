@@ -1,0 +1,6 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch10\fig10_05_06\Time2\Time2\bin\Debug\Time2.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch10\fig10_05_06\Time2\Time2\bin\Debug\Time2.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch10\fig10_05_06\Time2\Time2\obj\Debug\Time2.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch10\fig10_05_06\Time2\Time2\obj\Debug\Time2.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#7\07_3_Time2\Time2\obj\Debug\Time2.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#7\07_3_Time2\Time2\obj\Debug\Time2.pdb

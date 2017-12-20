@@ -1,0 +1,10 @@
+C:\Users\Laleh\Documents\cs2412\Lectures\14\14-3-UsingTabs\UsingTabs\bin\Debug\UsingTabs.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\14\14-3-UsingTabs\UsingTabs\bin\Debug\UsingTabs.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\14\14-3-UsingTabs\UsingTabs\obj\Debug\UsingTabs.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Documents\cs2412\Lectures\14\14-3-UsingTabs\UsingTabs\obj\Debug\UsingTabs.UsingTabsForm.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\14\14-3-UsingTabs\UsingTabs\obj\Debug\UsingTabs.Properties.Resources.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\14\14-3-UsingTabs\UsingTabs\obj\Debug\UsingTabs.csproj.GenerateResource.Cache
+C:\Users\Laleh\Documents\cs2412\Lectures\14\14-3-UsingTabs\UsingTabs\obj\Debug\UsingTabs.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\14\14-3-UsingTabs\UsingTabs\obj\Debug\UsingTabs.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\17\17-2-UsingTabs\UsingTabs\obj\Debug\UsingTabs.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\17\17-2-UsingTabs\UsingTabs\obj\Debug\UsingTabs.pdb

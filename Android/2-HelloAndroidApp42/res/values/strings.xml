@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloAndroidApp42</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_jelly_bean">Hello, Jelly Bean!</string>
+    <string name="title_jelly_bean_button">This is my 1st Jelly Bean button</string>
+    <string name="jelly_bean_toast_text">This is my 1st Jelly Bean toast!</string>
+
+</resources>

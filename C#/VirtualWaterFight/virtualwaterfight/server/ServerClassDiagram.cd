@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Server.BalloonManagerDoer">
+    <Position X="24" Y="1.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAEAACAAAAkAAAAAAAAAAAAAAQAAAAAAEAAA=</HashCode>
+      <FileName>BalloonManagerDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.BalloonManagerReplyDoer">
+    <Position X="22" Y="6.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Server.BalloonManagerReplyDoer.possibleStates">
+        <TypeIdentifier>
+          <NewMemberFileName>BalloonManagerReplyDoer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAABAAEAAAAkAAAQAAAAAAAQAAAAEAAgAAAAA=</HashCode>
+      <FileName>BalloonManagerReplyDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.DecrementNumberOfBalloonsDoer">
+    <Position X="24.25" Y="6.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Server.DecrementNumberOfBalloonsDoer.possibleStates">
+        <TypeIdentifier>
+          <NewMemberFileName>DecrementNumberOfBalloonsDoer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAABAAEAAAAkAAAAAAAAAAAAAAAAEAAgAAAAA=</HashCode>
+      <FileName>DecrementNumberOfBalloonsDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.DeregistrationReplyDoer">
+    <Position X="9" Y="6.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Server.DeregistrationReplyDoer.possibleStates">
+        <TypeIdentifier>
+          <NewMemberFileName>DeregistrationReplyDoer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <InheritanceLine Type="Server.FightManagerDoer" FixedToPoint="true">
+      <Path>
+        <Point X="11.625" Y="5.261" />
+        <Point X="11.625" Y="6.125" />
+        <Point X="9.938" Y="6.125" />
+        <Point X="9.938" Y="6.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAABAAEAAAAkAAAAAAAAAAAQAAAAEAAgAAAAA=</HashCode>
+      <FileName>DeregistrationReplyDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.EmptyBalloonRequestDoer">
+    <Position X="27" Y="6.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Server.EmptyBalloonRequestDoer.possibleStates">
+        <TypeIdentifier>
+          <NewMemberFileName>EmptyBalloonRequestDoer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAABAAEAAAAsAAAAAAAAAAAQAAAAEAAgAAAAA=</HashCode>
+      <FileName>EmptyBalloonRequestDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.FightManagerDoer">
+    <Position X="10.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EgABCQEAAAAAAAAAAkAAAAAAAAAQBQEAAAMAEAAACAA=</HashCode>
+      <FileName>FightManagerDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.InstigateFightReplyDoer">
+    <Position X="3" Y="6.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Server.InstigateFightReplyDoer.possibleStates">
+        <TypeIdentifier>
+          <NewMemberFileName>InstigateFightReplyDoer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABAIAEAABAAAEAAAlAAAAAUAAAAAAEAAAEEAgAABQA=</HashCode>
+      <FileName>InstigateFightReplyDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.JoinFightReplyDoer">
+    <Position X="5" Y="6.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Server.JoinFightReplyDoer.possibleStates">
+        <TypeIdentifier>
+          <NewMemberFileName>JoinFightReplyDoer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gABAIAEAABAAAEAAAlAAAAAUAAAAAAEAAAEAAgAABQA=</HashCode>
+      <FileName>JoinFightReplyDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.PacketizedFightListReplyDoer">
+    <Position X="11" Y="6.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Server.PacketizedFightListReplyDoer.possibleStates">
+        <TypeIdentifier>
+          <NewMemberFileName>PacketizedFightListReplyDoer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAECABAABBIAEkAIAAAAQAAAgAFCAAEAAgAAAAA=</HashCode>
+      <FileName>PacketizedFightListReplyDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.PacketizedPlayerListReplyDoer">
+    <Position X="15.25" Y="6.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Server.PacketizedPlayerListReplyDoer.possibleStates">
+        <TypeIdentifier>
+          <NewMemberFileName>PacketizedPlayerListReplyDoer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAECABAABBIAAkAIAAAAQECAgAECAAEAAgAAAAA=</HashCode>
+      <FileName>PacketizedPlayerListReplyDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.PlayerLocationRequestDoer">
+    <Position X="0.5" Y="6.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Server.PlayerLocationRequestDoer.possibleStates">
+        <TypeIdentifier>
+          <NewMemberFileName>PlayerLocationRequestDoer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAABAAAAAAAsAAAABAAAAAAQAAAAEAwhAAAAA=</HashCode>
+      <FileName>PlayerLocationRequestDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.Program">
+    <Position X="36.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.RecentLocationReplyDoer">
+    <Position X="7" Y="6.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Server.RecentLocationReplyDoer.possibleStates">
+        <TypeIdentifier>
+          <NewMemberFileName>RecentLocationReplyDoer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAABAAAAAAEkAAAAAAAIAAAAACAAEAAgAAAAA=</HashCode>
+      <FileName>RecentLocationReplyDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.RegistrationReplyDoer">
+    <Position X="13.25" Y="6.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Server.RegistrationReplyDoer.possibleStates">
+        <TypeIdentifier>
+          <NewMemberFileName>RegistrationReplyDoer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAABAAEAAAAkAAAAAAAAAAAQAAAAEAAgAAAAA=</HashCode>
+      <FileName>RegistrationReplyDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.SpecificFightPlayersListReplyDoer">
+    <Position X="17.75" Y="6.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Server.SpecificFightPlayersListReplyDoer.possibleStates">
+        <TypeIdentifier>
+          <NewMemberFileName>SpecificFightPlayersListReplyDoer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAECABAABBIAAkAIAAAgQEAAgAECAAEAAgAAAAA=</HashCode>
+      <FileName>SpecificFightPlayersListReplyDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.WaterManagerDoer">
+    <Position X="30.5" Y="1.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAACAkgAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WaterManagerDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server.WaterRequestDoer">
+    <Position X="31" Y="5.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Server.WaterRequestDoer.possibleStates">
+        <TypeIdentifier>
+          <NewMemberFileName>WaterRequestDoer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAABAAEQAEAkAAAACAAAAAAQAAAAEAAgAIAAA=</HashCode>
+      <FileName>WaterRequestDoer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

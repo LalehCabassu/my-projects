@@ -1,0 +1,18 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_12\StringBuilderAppendFormat\StringBuilderAppendFormat\bin\Debug\StringBuilderAppendFormat.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_12\StringBuilderAppendFormat\StringBuilderAppendFormat\bin\Debug\StringBuilderAppendFormat.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_12\StringBuilderAppendFormat\StringBuilderAppendFormat\obj\Debug\StringBuilderAppendFormat.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_12\StringBuilderAppendFormat\StringBuilderAppendFormat\obj\Debug\StringBuilderAppendFormat.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#6\06_5_StringBuilderAppendFormat\StringBuilderAppendFormat\obj\Debug\StringBuilderAppendFormat.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#6\06_5_StringBuilderAppendFormat\StringBuilderAppendFormat\obj\Debug\StringBuilderAppendFormat.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#6\06_5_StringBuilderAppendFormat\StringBuilderAppendFormat\bin\Debug\StringBuilderAppendFormat.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#6\06_5_StringBuilderAppendFormat\StringBuilderAppendFormat\bin\Debug\StringBuilderAppendFormat.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_5_StringBuilderAppendFormat\StringBuilderAppendFormat\bin\Debug\StringBuilderAppendFormat.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_5_StringBuilderAppendFormat\StringBuilderAppendFormat\bin\Debug\StringBuilderAppendFormat.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_5_StringBuilderAppendFormat\StringBuilderAppendFormat\obj\Debug\StringBuilderAppendFormat.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_5_StringBuilderAppendFormat\StringBuilderAppendFormat\obj\Debug\StringBuilderAppendFormat.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_5_StringBuilderAppendFormat\StringBuilderAppendFormat\obj\Debug\StringBuilderAppendFormat.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\19\19-5-StringBuilderAppendFormat\StringBuilderAppendFormat\obj\Debug\StringBuilderAppendFormat.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\19\19-5-StringBuilderAppendFormat\StringBuilderAppendFormat\obj\Debug\StringBuilderAppendFormat.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\19\19-5-StringBuilderAppendFormat\StringBuilderAppendFormat\bin\Debug\StringBuilderAppendFormat.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\19\19-5-StringBuilderAppendFormat\StringBuilderAppendFormat\bin\Debug\StringBuilderAppendFormat.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\19\19-5-StringBuilderAppendFormat\StringBuilderAppendFormat\obj\Debug\StringBuilderAppendFormat.csprojResolveAssemblyReference.cache

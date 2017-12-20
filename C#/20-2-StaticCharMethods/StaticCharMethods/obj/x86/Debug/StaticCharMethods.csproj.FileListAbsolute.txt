@@ -1,0 +1,10 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_15\StaticCharMethods\StaticCharMethods\bin\Debug\StaticCharMethods.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_15\StaticCharMethods\StaticCharMethods\bin\Debug\StaticCharMethods.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_15\StaticCharMethods\StaticCharMethods\obj\x86\Debug\StaticCharMethods.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_15\StaticCharMethods\StaticCharMethods\obj\x86\Debug\StaticCharMethods.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_15\StaticCharMethods\StaticCharMethods\obj\x86\Debug\StaticCharMethods.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\20\Fig16_15\StaticCharMethods\StaticCharMethods\obj\x86\Debug\StaticCharMethods.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\20\Fig16_15\StaticCharMethods\StaticCharMethods\obj\x86\Debug\StaticCharMethods.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\20\Fig16_15\StaticCharMethods\StaticCharMethods\bin\Debug\StaticCharMethods.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\20\Fig16_15\StaticCharMethods\StaticCharMethods\bin\Debug\StaticCharMethods.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\20\Fig16_15\StaticCharMethods\StaticCharMethods\obj\x86\Debug\StaticCharMethods.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Tulip\Desktop\02-01-CreateInitializeOutputArrays\02-01-CreateInitializeOutputArrays\bin\Debug\02-01-CreateInitializeOutputArrays.exe.config
+C:\Users\Tulip\Desktop\02-01-CreateInitializeOutputArrays\02-01-CreateInitializeOutputArrays\bin\Debug\02-01-CreateInitializeOutputArrays.exe
+C:\Users\Tulip\Desktop\02-01-CreateInitializeOutputArrays\02-01-CreateInitializeOutputArrays\bin\Debug\02-01-CreateInitializeOutputArrays.pdb
+C:\Users\Tulip\Desktop\02-01-CreateInitializeOutputArrays\02-01-CreateInitializeOutputArrays\obj\Debug\02-01-CreateInitializeOutputArrays.csprojResolveAssemblyReference.cache
+C:\Users\Tulip\Desktop\02-01-CreateInitializeOutputArrays\02-01-CreateInitializeOutputArrays\obj\Debug\02-01-CreateInitializeOutputArrays.exe
+C:\Users\Tulip\Desktop\02-01-CreateInitializeOutputArrays\02-01-CreateInitializeOutputArrays\obj\Debug\02-01-CreateInitializeOutputArrays.pdb
+C:\Users\Laleh\Google Drive\CS 3420 - C#\CS 3420 - C# programming\#2\02-1-CreateInitializeOutputArrays\02-01-CreateInitializeOutputArrays\bin\Debug\02-01-CreateInitializeOutputArrays.exe.config
+C:\Users\Laleh\Google Drive\CS 3420 - C#\CS 3420 - C# programming\#2\02-1-CreateInitializeOutputArrays\02-01-CreateInitializeOutputArrays\obj\Debug\02-01-CreateInitializeOutputArrays.exe
+C:\Users\Laleh\Google Drive\CS 3420 - C#\CS 3420 - C# programming\#2\02-1-CreateInitializeOutputArrays\02-01-CreateInitializeOutputArrays\obj\Debug\02-01-CreateInitializeOutputArrays.pdb
+C:\Users\Laleh\Google Drive\CS 3420 - C#\CS 3420 - C# programming\#2\02-1-CreateInitializeOutputArrays\02-01-CreateInitializeOutputArrays\bin\Debug\02-01-CreateInitializeOutputArrays.exe
+C:\Users\Laleh\Google Drive\CS 3420 - C#\CS 3420 - C# programming\#2\02-1-CreateInitializeOutputArrays\02-01-CreateInitializeOutputArrays\bin\Debug\02-01-CreateInitializeOutputArrays.pdb
+C:\Users\Laleh\Google Drive\CS 3420 - C#\CS 3420 - C# programming\#2\02-1-CreateInitializeOutputArrays\02-01-CreateInitializeOutputArrays\obj\Debug\02-01-CreateInitializeOutputArrays.csprojResolveAssemblyReference.cache

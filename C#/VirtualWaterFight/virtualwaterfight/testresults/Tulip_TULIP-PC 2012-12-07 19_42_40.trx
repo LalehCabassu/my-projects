@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d3563f2d-7c47-412d-8e49-af250847a995" name="Tulip@TULIP-PC 2012-12-07 19:42:40" runUser="Tulip-PC\Tulip" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="670c5c00-ed4e-414f-8521-9bfb3367e3cc">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Tulip_TULIP-PC 2012-12-07 19_42_40">
+      <DeploymentItem filename="C:\Users\Tulip\Desktop\VirtualWaterFight_2\BalloonManager\bin\Debug\BalloonManager.dll" />
+      <DeploymentItem filename="C:\Users\Tulip\Desktop\VirtualWaterFight_2\Player\bin\Debug\Player.dll" />
+      <DeploymentItem filename="C:\Users\Tulip\Desktop\VirtualWaterFight_2\Common\bin\Debug\Common.dll" />
+      <DeploymentItem filename="C:\Users\Tulip\Desktop\VirtualWaterFight_2\Objects\bin\Debug\Objects.dll" />
+      <DeploymentItem filename="C:\Users\Tulip\Desktop\VirtualWaterFight_2\WaterManager\bin\Debug\WaterManager.dll" />
+      <DeploymentItem filename="C:\Users\Tulip\Desktop\VirtualWaterFight_2\FightManager\bin\Debug\FightManager.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-12-07T19:42:40.9979214-07:00" queuing="2012-12-07T19:42:41.0877652-07:00" start="2012-12-07T19:42:41.2615933-07:00" finish="2012-12-07T19:42:42.3895230-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestIsExist" storage="c:\users\tulip\desktop\virtualwaterfight_2\testvirtualwaterfight\bin\debug\testvirtualwaterfight.dll" id="01f1589e-854a-7664-f6ad-25e4f7045bf2">
+      <Execution id="18c73857-f1d6-418c-95c4-d3d8f1e03442" />
+      <TestMethod codeBase="C:/Users/Tulip/Desktop/VirtualWaterFight_2/TestVirtualWaterFight/bin/Debug/TestVirtualWaterFight.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestVirtualWaterFight.CommonTester.ManagerConversationListTester, TestVirtualWaterFight, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIsExist" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="01f1589e-854a-7664-f6ad-25e4f7045bf2" executionId="18c73857-f1d6-418c-95c4-d3d8f1e03442" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="18c73857-f1d6-418c-95c4-d3d8f1e03442" testId="01f1589e-854a-7664-f6ad-25e4f7045bf2" testName="TestIsExist" computerName="TULIP-PC" duration="00:00:00.0719532" startTime="2012-12-07T19:42:41.6229214-07:00" endTime="2012-12-07T19:42:42.0076870-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="18c73857-f1d6-418c-95c4-d3d8f1e03442">
+    </UnitTestResult>
+  </Results>
+</TestRun>

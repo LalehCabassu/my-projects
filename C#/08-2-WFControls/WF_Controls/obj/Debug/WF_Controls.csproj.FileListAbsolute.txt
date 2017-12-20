@@ -1,0 +1,21 @@
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\WF_Controls\WF_Controls\bin\Debug\WF_Controls.exe.config
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\WF_Controls\WF_Controls\bin\Debug\WF_Controls.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\WF_Controls\WF_Controls\bin\Debug\WF_Controls.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\WF_Controls\WF_Controls\obj\Debug\WF_Controls.csprojResolveAssemblyReference.cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\WF_Controls\WF_Controls\obj\Debug\WF_Controls.Properties.Resources.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\WF_Controls\WF_Controls\obj\Debug\WF_Controls.SimpleForm.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\WF_Controls\WF_Controls\obj\Debug\WF_Controls.csproj.GenerateResource.Cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\WF_Controls\WF_Controls\obj\Debug\WF_Controls.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\WF_Controls\WF_Controls\obj\Debug\WF_Controls.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\12_1_WF_Controls\WF_Controls\bin\Debug\WF_Controls.exe.config
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\12_1_WF_Controls\WF_Controls\obj\Debug\WF_Controls.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#12\12_1_WF_Controls\WF_Controls\obj\Debug\WF_Controls.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\08\12_1_WF_Controls\WF_Controls\bin\Debug\WF_Controls.exe.config
+C:\Users\Laleh\Documents\cs2412\Lectures\08\12_1_WF_Controls\WF_Controls\obj\Debug\WF_Controls.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\08\12_1_WF_Controls\WF_Controls\obj\Debug\WF_Controls.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\08\12_1_WF_Controls\WF_Controls\bin\Debug\WF_Controls.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\08\12_1_WF_Controls\WF_Controls\bin\Debug\WF_Controls.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\08\12_1_WF_Controls\WF_Controls\obj\Debug\WF_Controls.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Documents\cs2412\Lectures\08\12_1_WF_Controls\WF_Controls\obj\Debug\WF_Controls.Properties.Resources.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\08\12_1_WF_Controls\WF_Controls\obj\Debug\WF_Controls.SimpleForm.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\08\12_1_WF_Controls\WF_Controls\obj\Debug\WF_Controls.csproj.GenerateResource.Cache

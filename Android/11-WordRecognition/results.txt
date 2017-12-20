@@ -1,0 +1,144 @@
+nt_35_line_10:	
+nt_35_line_07:	1g	Protein	
+nt_35_line_06:	0%	0g	Fiber	Dietary	
+nt_35_line_05:	Cholesterol	
+nt_35_line_04:	
+nt_35_line_03:	
+nt_35_line_01:	45	Fat	from	Calories	
+nt_35_line_02:	8%	Total	
+nt_35_line_00:	Facts	
+nt_34_line_08:	8%	Iron	dot	2%	Calcium	
+nt_34_line_07:	9%	Protein	
+nt_34_line_06:	19g	Sugars	
+nt_34_line_05:	13%	40g	Carbohydrate	Total	
+nt_34_line_04:	0%	0mg	Cholesterol	
+nt_34_line_03:	10%	2g	Fat	Saturated	
+nt_34_line_02:	Value	4%	
+nt_34_line_01:	Calories	
+nt_34_line_00:	
+nt_33_line_10:	Calories	4%	
+nt_33_line_09:	
+nt_33_line_08:	Fat	dot	
+nt_33_line_07:	19g	Sugars	
+nt_33_line_06:	4%	27%	Fiber	Dietary	
+nt_33_line_05:	Cholesterol	
+nt_33_line_03:	
+nt_33_line_04:	Fat	Saturated	
+nt_33_line_02:	
+nt_33_line_00:	
+nt_32_line_11:	
+nt_32_line_10:	
+nt_32_line_09:	
+nt_32_line_08:	
+nt_32_line_07:	dot	
+nt_32_line_06:	
+nt_32_line_05:	dot	
+nt_32_line_04:	
+nt_32_line_02:	
+nt_32_line_01:	
+nt_32_line_00:	
+nt_31_line_12:	
+nt_31_line_11:	
+nt_31_line_10:	
+nt_31_line_09:	
+nt_31_line_08:	
+nt_31_line_07:	
+nt_31_line_06:	
+nt_31_line_05:	
+nt_31_line_04:	dot	
+nt_31_line_03:	
+nt_31_line_02:	
+nt_31_line_01:	Serving	
+nt_31_line_00:	Facts	Nutrition	
+nt_30_line_13:	25%	25%	Acid	
+nt_30_line_12:	25%	Calcium	dot	
+nt_30_line_11:	10%	10%	
+nt_30_line_10:	
+nt_30_line_09:	vitamin	
+nt_30_line_08:	Protein	
+nt_30_line_07:	Sugars	
+nt_30_line_06:	25%	
+nt_30_line_05:	
+nt_30_line_04:	2%	
+nt_30_line_03:	
+nt_30_line_02:	2%	Fat	
+nt_30_line_01:	
+nt_29_line_10:	Acid	
+nt_29_line_07:	
+nt_29_line_05:	
+nt_29_line_04:	Fat	Calories	
+nt_29_line_03:	
+nt_29_line_00:	
+nt_28_line_11:	Protein	
+nt_28_line_12:	
+nt_28_line_10:	4g	
+nt_28_line_09:	Fiber	24	4g	Fiber	19g	Dietary	
+nt_28_line_08:	
+nt_28_line_07:	0%	Cholesterol	
+nt_28_line_06:	Fat	Polyunsaturated	
+nt_28_line_05:	0%	0g	Fat	Saturated	
+nt_28_line_04:	
+nt_28_line_03:	180	Calories	
+nt_28_line_00:	Cinnamon	
+nt_27_line_06:	
+nt_27_line_05:	
+nt_27_line_04:	
+nt_27_line_03:	Sodium	
+nt_27_line_02:	
+nt_27_line_00:	Harvest	
+nt_15_line_08:	40%	dot	
+nt_15_line_07:	Protein	
+nt_15_line_06:	0%	Dietary	
+nt_15_line_05:	1%	Potassium	
+nt_15_line_04:	0%	Cholesterol	
+nt_15_line_03:	0g	Fat	Polyunsaturated	
+nt_15_line_02:	0%	0g	Fat	Saturated	
+nt_15_line_01:	
+nt_14_line_09:	dot	vitamin	
+nt_14_line_08:	
+nt_14_line_07:	7%	Carbohydrate	Total	
+nt_14_line_06:	0%	0mg	Cholesterol	
+nt_14_line_05:	1g	Polyunsaturated	
+nt_14_line_04:	0%	Saturated	
+nt_14_line_03:	Value	
+nt_14_line_02:	
+nt_13_line_09:	dot	0%	Calcium	
+nt_13_line_08:	1g	Protein	
+nt_13_line_07:	0%	0g	Fiber	Dietary	
+nt_13_line_06:	4%	85mg	
+nt_13_line_05:	
+nt_13_line_04:	
+nt_13_line_03:	
+nt_13_line_02:	Calories	140	Calories	
+nt_12_line_09:	10%	Riboflavin	dot	Calcium	Thiamin	
+nt_12_line_08:	dot	
+nt_12_line_07:	16g	Sugars	
+nt_12_line_06:	9%	27%	
+nt_12_line_05:	0%	Cholesterol	
+nt_12_line_04:	0%	Saturated	
+nt_12_line_03:	Value	Daily	Fiber	
+nt_12_line_02:	Serving	Per	
+nt_11_line_09:	dot	25%	
+nt_11_line_07:	
+nt_11_line_06:	
+nt_11_line_05:	Sugars	
+nt_11_line_04:	Carbohydrate	Total	
+nt_11_line_03:	0%	
+nt_11_line_02:	0%	
+nt_05_line_09:	folate	dot	4%	Iron	dot	2%	Calcium	
+nt_05_line_08:	
+nt_05_line_07:	11g	Sugars	
+nt_05_line_06:	9%	Total	
+nt_05_line_04:	Fat	Monounsaturated	
+nt_05_line_03:	
+nt_05_line_02:	7%	Total	Total	
+nt_04_line_11:	15%	0%	Calcium	
+nt_04_line_09:	6g	Sugars	
+nt_04_line_08:	
+nt_04_line_07:	Sodium	
+nt_04_line_06:	1	Fat	Monounsaturated	
+nt_04_line_05:	Trans	
+nt_04_line_04:	4%	4%	4%	
+nt_11_line_01:	
+nt_05_line_01:	40	Fat	from	Calories	160	Calories	
+nt_04_line_03:	dot	20	

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LineDetection_HoughTransforms</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="imageNumbers">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+    </string-array>
+
+    <string name="imageKey">ik</string>
+    <string name="actionKey">ak</string>
+    <string name="title_activity_image_displayer">ImageDisplayer</string>
+    <string name="edgeDetectorBtnTxt">Edge Detector</string>
+    <string name="houghTransformBtnTxt">Hough Transform</string>
+    <string name="title_activity_edge_detector">EdgeDetector</string>
+    <string name="title_activity_hough_transform">HoughTransform</string>
+    <string name="activity_result_key">act_key</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_hough_transforms">HoughTransformsAct</string>
+
+</resources>

@@ -1,0 +1,15 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_11\DateTimePickerTest\DateTimePickerTest\bin\Debug\Fig14_11(DateTIME2ndfig).exe
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_11\DateTimePickerTest\DateTimePickerTest\bin\Debug\Fig14_11(DateTIME2ndfig).pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_11\DateTimePickerTest\DateTimePickerTest\obj\Debug\DateTimePickerTest.DateTimePickerForm.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_11\DateTimePickerTest\DateTimePickerTest\obj\Debug\DateTimePickerTest.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_11\DateTimePickerTest\DateTimePickerTest\obj\Debug\DateTimePickerTest.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_11\DateTimePickerTest\DateTimePickerTest\obj\Debug\Fig14_11(DateTIME2ndfig).exe
+C:\books\2012\VCSHARP2012HTP\examples\ch15\Fig15_11\DateTimePickerTest\DateTimePickerTest\obj\Debug\Fig14_11(DateTIME2ndfig).pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\12\12-2-DateTimePickerTest\DateTimePickerTest\obj\Debug\Fig14_11(DateTIME2ndfig).exe
+C:\Users\Laleh\Documents\cs2412\Lectures\12\12-2-DateTimePickerTest\DateTimePickerTest\obj\Debug\Fig14_11(DateTIME2ndfig).pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\12\12-2-DateTimePickerTest\DateTimePickerTest\bin\Debug\Fig14_11(DateTIME2ndfig).exe
+C:\Users\Laleh\Documents\cs2412\Lectures\12\12-2-DateTimePickerTest\DateTimePickerTest\bin\Debug\Fig14_11(DateTIME2ndfig).pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\12\12-2-DateTimePickerTest\DateTimePickerTest\obj\Debug\DateTimePickerTest.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Documents\cs2412\Lectures\12\12-2-DateTimePickerTest\DateTimePickerTest\obj\Debug\DateTimePickerTest.DateTimePickerForm.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\12\12-2-DateTimePickerTest\DateTimePickerTest\obj\Debug\DateTimePickerTest.Properties.Resources.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\12\12-2-DateTimePickerTest\DateTimePickerTest\obj\Debug\DateTimePickerTest.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch22\Fig22_05_08\Stack\Stack\bin\Debug\Stack.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch22\Fig22_05_08\Stack\Stack\bin\Debug\Stack.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch22\Fig22_05_08\Stack\Stack\obj\Debug\Stack.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch22\Fig22_05_08\Stack\Stack\obj\Debug\Stack.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch20\Fig20_05_08\Stack\Stack\bin\Debug\Stack.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch20\Fig20_05_08\Stack\Stack\bin\Debug\Stack.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#16\16_3_NongenericStack\Stack\obj\Debug\Stack.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#16\16_3_NongenericStack\Stack\obj\Debug\Stack.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#16\16_3_NongenericStack\Stack\bin\Debug\Stack.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#16\16_3_NongenericStack\Stack\bin\Debug\Stack.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#16\16_3_NongenericStack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Documents\cs2412\Lectures\22\22-1-NongenericStack\Stack\obj\Debug\Stack.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\22\22-1-NongenericStack\Stack\obj\Debug\Stack.pdb

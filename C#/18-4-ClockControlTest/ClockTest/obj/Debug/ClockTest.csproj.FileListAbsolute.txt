@@ -1,0 +1,14 @@
+C:\Users\Laleh\Desktop\ClockTest\ClockTest\bin\Debug\ClockTest.exe.config
+C:\Users\Laleh\Desktop\ClockTest\ClockTest\bin\Debug\ClockTest.exe
+C:\Users\Laleh\Desktop\ClockTest\ClockTest\bin\Debug\ClockTest.pdb
+C:\Users\Laleh\Desktop\ClockTest\ClockTest\bin\Debug\ClockControl.dll
+C:\Users\Laleh\Desktop\ClockTest\ClockTest\bin\Debug\ClockControl.pdb
+C:\Users\Laleh\Desktop\ClockTest\ClockTest\obj\Debug\ClockTest.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Desktop\ClockTest\ClockTest\obj\Debug\ClockTest.ClockForm.resources
+C:\Users\Laleh\Desktop\ClockTest\ClockTest\obj\Debug\ClockTest.Properties.Resources.resources
+C:\Users\Laleh\Desktop\ClockTest\ClockTest\obj\Debug\ClockTest.csproj.GenerateResource.Cache
+C:\Users\Laleh\Desktop\ClockTest\ClockTest\obj\Debug\ClockTest.exe
+C:\Users\Laleh\Desktop\ClockTest\ClockTest\obj\Debug\ClockTest.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\18\18-4-ClockControlTest\ClockTest\bin\Debug\ClockTest.exe.config
+C:\Users\Laleh\Documents\cs2412\Lectures\18\18-4-ClockControlTest\ClockTest\obj\Debug\ClockTest.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\18\18-4-ClockControlTest\ClockTest\obj\Debug\ClockTest.pdb

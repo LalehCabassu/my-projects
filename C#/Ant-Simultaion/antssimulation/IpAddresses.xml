@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+  <item>
+    <property name="Name" value="GROUND-EP"/>
+    <property name="EndPoint" value="127.0.0.1:2600"/>
+  </item>
+
+  <item>
+    <property name="Name" value="VIEW-EP"/>
+    <property name="EndPoint" value="127.0.0.1:2601"/>
+  </item>
+
+</object>

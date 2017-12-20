@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+  <!-- Logging -->
+  <item type="Vitruvian.Logging.LoggingService, Vitruvian.Logging"/>
+    
+  <item type="Ants.Colony, Ants" id="COLONY_1">
+    <property name="InitialAntCount" value="2" />
+  </item>
+
+  <!-- Time Service, needed for distribution -->
+  <item type="Vitruvian.Distribution.Time.SystemTime, Vitruvian.Distribution" />
+
+  <!-- IPTable -->
+  <item type="Vitruvian.Communications.Sockets.IPTable, Vitruvian.Communications">
+    <property name="FilePath" value=".\Config\IpAddresses.xml"/>
+  </item>
+
+  <!-- Distribution Service -->
+  <item type="Vitruvian.Distribution.SimpleDistributionService, Vitruvian.Distribution">
+    <property name="Services">
+      <item ref="COLONY_1"/>
+    </property>
+    <property name="Connections">
+      <item value="tcpclient,remote=GROUND-EP"/>
+      <item value="tcpclient,remote=VIEW-EP"/>
+    </property>
+  </item>
+
+  <!-- Console window service -->
+  <item type="Vitruvian.Services.ConsoleService, Vitruvian.Services"/>
+
+</object>

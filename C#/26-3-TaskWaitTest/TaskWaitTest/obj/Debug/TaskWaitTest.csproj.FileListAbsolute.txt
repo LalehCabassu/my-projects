@@ -1,0 +1,6 @@
+C:\Users\Laleh\Documents\cs2412\Lectures\25\TaskWaitTest\TaskWaitTest\bin\Debug\TaskWaitTest.exe.config
+C:\Users\Laleh\Documents\cs2412\Lectures\25\TaskWaitTest\TaskWaitTest\bin\Debug\TaskWaitTest.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\25\TaskWaitTest\TaskWaitTest\bin\Debug\TaskWaitTest.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\25\TaskWaitTest\TaskWaitTest\obj\Debug\TaskWaitTest.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Documents\cs2412\Lectures\25\TaskWaitTest\TaskWaitTest\obj\Debug\TaskWaitTest.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\25\TaskWaitTest\TaskWaitTest\obj\Debug\TaskWaitTest.pdb

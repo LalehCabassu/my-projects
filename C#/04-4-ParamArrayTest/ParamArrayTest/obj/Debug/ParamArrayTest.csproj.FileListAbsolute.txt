@@ -1,0 +1,8 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch08\fig08_22\ParamArrayTest\ParamArrayTest\bin\Debug\ParamArrayTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch08\fig08_22\ParamArrayTest\ParamArrayTest\bin\Debug\ParamArrayTest.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch08\fig08_22\ParamArrayTest\ParamArrayTest\obj\Debug\ParamArrayTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch08\fig08_22\ParamArrayTest\ParamArrayTest\obj\Debug\ParamArrayTest.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#3\03_8_ParamArrayTest\ParamArrayTest\obj\Debug\ParamArrayTest.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#3\03_8_ParamArrayTest\ParamArrayTest\obj\Debug\ParamArrayTest.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#3\03_8_ParamArrayTest\ParamArrayTest\bin\Debug\ParamArrayTest.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#3\03_8_ParamArrayTest\ParamArrayTest\bin\Debug\ParamArrayTest.pdb

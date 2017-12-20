@@ -1,0 +1,10 @@
+LEGAL/Mr/Nathan/James/Beutler/;OTHER/201/554/9825/;HOME/8 Aggie Village APT D//Logan/Utah/84341;;Wed Jul 02 19:43:10 MDT 2014;
+LEGAL/Mr/Nathan/Edward/Hawley/;FAX/702/325/5362/;WORK/28 Aggie Village APT E//Logan/Utah/84341;;Wed Jul 02 19:43:10 MDT 2014;
+LEGAL/Mr/Dylan/Thomas/Anderson/;CELL_PHONE/505/876/9825/;OTHER/678 N Main St//Logan/Utah/84321;;Wed Jul 02 19:43:10 MDT 2014;
+LEGAL/Mr/Anthony/Thomas/Matos/;OTHER/603/423/9825/;HOME/118 North Main Street////,OTHER//Logan/Utah/84321/;;Wed Jul 02 19:43:10 MDT 2014;
+LEGAL/Mr/Tyrel/Thomas/Hawley/;CELL_PHONE/212/245/0305/;WORK/1550 N Main St//Logan/Utah/84341;;Wed Jul 02 19:43:10 MDT 2014;
+LEGAL/Mr/Karl/Ray/Baker/;OTHER/209/554/6878/;OTHER/442 N 175 E//Logan/Utah/84321;;Wed Jul 02 19:43:10 MDT 2014;
+LEGAL/Mr/Karl/Daniel/Matos/;HOME/505/554/9874/;HOME/555 E 1400 N//Logan/Utah/84341;;Wed Jul 02 19:43:10 MDT 2014;
+LEGAL/Mr/Mario/Michael/Hawley/;OTHER/201/321/0305/;WORK/682 S Main St//Logan/Utah/84321;;Wed Jul 02 19:43:10 MDT 2014;
+LEGAL/Mr/Karl/Joseph/Johnson/;FAX/303/423/0305/;OTHER/1165 N Main St//Logan/Utah/84341;;Wed Jul 02 19:43:10 MDT 2014;
+LEGAL/Miss/Laleh//Rostami Hosoori/;HOME/435/554/8157/;HOME/8 Aggie Village Apt D//Logan/UT/84341;

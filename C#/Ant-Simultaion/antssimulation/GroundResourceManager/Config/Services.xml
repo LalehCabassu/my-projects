@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+  <!-- Logging -->
+  <item type="Vitruvian.Logging.LoggingService, Vitruvian.Logging"/>
+  
+  <!-- Ground -->
+  <item type="Ants.Ground, Ants" id="GROUND">
+    <property name="Width" value="50" />
+    <property name="Height" value="50" />
+    <property name="NumberOfFoodPiles" value="4" />
+    <property name="MaxFoodInAPile" value="600" />
+  </item>
+  
+  <!-- Simulation Settings -->
+  <item type="Ants.SimulationSettings, Ants" id="SETTINGS">
+    <property name="DefaultNumberOfAnts" value="10" />
+    <property name="AntPayload" value="10" />
+    <property name="InitPheromone" value="150" />
+    <property name="MovementInterval" value="500" />
+    <property name="PheromoneDecayAmount" value="2" />
+    <property name="MaxPheromoneLevel" value="300" />
+    <property name="GroundBorder" value="3.0" />
+    <property name="MinSymbolSize" value="6.0" />
+    <property name="PheromoneRelativeMarkerSize" value=".70" />
+    <property name="MinPheromoneMarkerSize" value="3.0" />
+    <property name="DisplayRefreshInterval" value="2000" />
+    <property name="AntBiasTowardsHome" value="80" />
+    <property name="AntDirectionSteadiness" value="60" />
+  </item>
+
+  <!-- Time Service, needed for distribution -->
+  <item type="Vitruvian.Distribution.Time.SystemTime, Vitruvian.Distribution" />
+
+  <!-- IPTable -->
+  <item type="Vitruvian.Communications.Sockets.IPTable, Vitruvian.Communications">
+    <property name="FilePath" value=".\Config\IpAddresses.xml"/>
+  </item>
+
+  <!-- Distribution Service -->
+  <item type="Vitruvian.Distribution.SimpleDistributionService, Vitruvian.Distribution">
+    <property name="Services">
+      <item ref="GROUND"/>
+      <item ref="SETTINGS" />
+    </property>
+    <property name="Connections">
+      <item value="tcplistener,local=GROUND-EP"/>
+    </property>
+  </item>
+  
+  <!-- Console window service -->
+  <item type="Vitruvian.Services.ConsoleService, Vitruvian.Services"/>
+
+</object>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7CFD3E10-50DB-449C-B2A3-F344D955EC55}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Common</RootNamespace>
+    <AssemblyName>Common</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ByteList.cs" />
+    <Compile Include="Communicator\Communicator.cs" />
+    <Compile Include="Threading\ManagerConversation.cs" />
+    <Compile Include="Threading\ManagerConversationList.cs" />
+    <Compile Include="Communicator\MessageQueue.cs" />
+    <Compile Include="Threading\PlayerConversation.cs" />
+    <Compile Include="Threading\PlayerConversationList.cs" />
+    <Compile Include="Messages\AckNak.cs" />
+    <Compile Include="Messages\AckNakList.cs" />
+    <Compile Include="Messages\ClassSerializationCode.cs" />
+    <Compile Include="Messages\CurrentPlayersListRequest.cs" />
+    <Compile Include="Messages\DecrementNumberOfBalloonsRequest.cs" />
+    <Compile Include="Messages\DeregistrationRequest.cs" />
+    <Compile Include="Messages\EmptyBalloonReply.cs" />
+    <Compile Include="Messages\EmptyBalloonRequest.cs" />
+    <Compile Include="Messages\Envelope.cs" />
+    <Compile Include="Messages\FightManagerReply.cs" />
+    <Compile Include="Messages\HitReply.cs" />
+    <Compile Include="Messages\HitThrowerReply.cs" />
+    <Compile Include="Messages\InprocessFightsListReply.cs" />
+    <Compile Include="Messages\InprocessFightsListRequest.cs" />
+    <Compile Include="Messages\InstigateFightRequest.cs" />
+    <Compile Include="Messages\JoinFightRequest.cs" />
+    <Compile Include="Messages\Message.cs" />
+    <Compile Include="Messages\MessageNumber.cs" />
+    <Compile Include="Messages\NotHitReply.cs" />
+    <Compile Include="Messages\NotHitThrowerReply.cs" />
+    <Compile Include="Messages\NumberOfEmptyBalloonsRequest.cs" />
+    <Compile Include="Messages\NumberOfFightsRequest.cs" />
+    <Compile Include="Messages\PlayerLocationReply.cs" />
+    <Compile Include="Messages\PlayerLocationRequest.cs" />
+    <Compile Include="Messages\PlayersListReply.cs" />
+    <Compile Include="Messages\PlayersOfSpecificFightReply.cs" />
+    <Compile Include="Messages\PlayersOfSpecificFightRequest.cs" />
+    <Compile Include="Messages\RecentLocationsReply.cs" />
+    <Compile Include="Messages\RecentLocationsRequest.cs" />
+    <Compile Include="Messages\RegistrationRequest.cs" />
+    <Compile Include="Messages\Reply.cs" />
+    <Compile Include="Messages\Request.cs" />
+    <Compile Include="Messages\WaterReply.cs" />
+    <Compile Include="Messages\WaterRequest.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Threading\BackgroundThread.cs" />
+    <Compile Include="Threading\Doer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Objects\Objects.csproj">
+      <Project>{217025E9-2923-4D06-A4A6-7F335C814CF5}</Project>
+      <Name>Objects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\Laleh\Desktop\SimpleMultiThreadApp\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.exe.config
+C:\Users\Laleh\Desktop\SimpleMultiThreadApp\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.exe
+C:\Users\Laleh\Desktop\SimpleMultiThreadApp\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.pdb
+C:\Users\Laleh\Desktop\SimpleMultiThreadApp\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Desktop\SimpleMultiThreadApp\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.exe
+C:\Users\Laleh\Desktop\SimpleMultiThreadApp\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\25\25-2-SimpleMultiThreadApp\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.exe.config
+C:\Users\Laleh\Documents\cs2412\Lectures\25\25-2-SimpleMultiThreadApp\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\25\25-2-SimpleMultiThreadApp\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.pdb

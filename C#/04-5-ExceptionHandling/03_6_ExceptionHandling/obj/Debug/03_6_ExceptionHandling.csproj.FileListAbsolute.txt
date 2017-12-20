@@ -1,0 +1,7 @@
+C:\Users\Tulip\Desktop\03_6_ExceptionHandling\03_6_ExceptionHandling\bin\Debug\03_6_ExceptionHandling.exe.config
+C:\Users\Tulip\Desktop\03_6_ExceptionHandling\03_6_ExceptionHandling\bin\Debug\03_6_ExceptionHandling.exe
+C:\Users\Tulip\Desktop\03_6_ExceptionHandling\03_6_ExceptionHandling\bin\Debug\03_6_ExceptionHandling.pdb
+C:\Users\Tulip\Desktop\03_6_ExceptionHandling\03_6_ExceptionHandling\obj\Debug\03_6_ExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Users\Tulip\Desktop\03_6_ExceptionHandling\03_6_ExceptionHandling\obj\Debug\03_6_ExceptionHandling.exe
+C:\Users\Tulip\Desktop\03_6_ExceptionHandling\03_6_ExceptionHandling\obj\Debug\03_6_ExceptionHandling.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\04\04-5-ExceptionHandling\03_6_ExceptionHandling\bin\Debug\03_6_ExceptionHandling.exe.config

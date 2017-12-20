@@ -1,0 +1,4 @@
+C:\Users\Laleh\Documents\GitHub\workspaces\C#\Data Structures\ListFlattening\ListFlattening\bin\Debug\ListFlattening.exe.config
+C:\Users\Laleh\Documents\GitHub\mycodes\C#\Data Structures\ListFlattening\ListFlattening\bin\Debug\ListFlattening.exe.config
+C:\Users\Laleh\Documents\GitHub\mycodes\C#\Data Structures\ListFlattening\ListFlattening\obj\Debug\ListFlattening.exe
+C:\Users\Laleh\Documents\GitHub\mycodes\C#\Data Structures\ListFlattening\ListFlattening\obj\Debug\ListFlattening.pdb

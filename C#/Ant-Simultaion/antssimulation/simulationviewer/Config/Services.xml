@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<object>
+  <!-- Logging -->
+  <item type="Vitruvian.Logging.LoggingService, Vitruvian.Logging"/>
+
+  <!-- Time Service -->
+  <item type="Vitruvian.Distribution.Time.SystemTime, Vitruvian.Distribution"/>
+
+  <!-- IPTable -->
+  <item type="Vitruvian.Communications.Sockets.IPTable, Vitruvian.Communications">
+    <property name="FilePath" value=".\Config\IpAddresses.xml"/>
+  </item>
+
+  <!-- Distribution Service -->
+  <item type="Vitruvian.Distribution.SimpleDistributionService, Vitruvian.Distribution">
+    <property name="Connections">
+      <item value="tcpclient,remote=GROUND-EP"/>
+      <item value="tcplistener,local=VIEW-EP"/>
+    </property>
+  </item>
+
+  <!-- Ground View Window Service -->
+  <item type="Vitruvian.Windows.Services.AsyncUIService, Vitruvian.Windows">
+    <property name="AppForm" type="UserInterfaceComponents.GroundForm, UserInterfaceComponents">
+      <property name="Text" value="Ground Display"/>
+      <property name="WindowState" value="Normal"/>
+    </property>/>
+  </item>
+  
+</object>

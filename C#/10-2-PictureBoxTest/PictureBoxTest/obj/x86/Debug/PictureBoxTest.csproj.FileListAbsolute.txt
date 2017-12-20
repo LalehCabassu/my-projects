@@ -1,0 +1,39 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_30\PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_30\PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_30\PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.PictureBoxTestForm.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_30\PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_30\PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_30\PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch14\Fig14_30\PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.csprojResolveAssemblyReference.cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.PictureBoxTestForm.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.Properties.Resources.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.csproj.GenerateResource.Cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\13_3_PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\13_3_PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\13_3_PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\13_3_PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\13_3_PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.csprojResolveAssemblyReference.cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\13_3_PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.PictureBoxTestForm.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\13_3_PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.Properties.Resources.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#13\13_3_PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.csproj.GenerateResource.Cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#14\14_1_PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#14\14_1_PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#14\14_1_PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.csprojResolveAssemblyReference.cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#14\14_1_PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.PictureBoxTestForm.resources
+F:\CS 3420 - C#\CS 3420 - C# programming\#14\14_1_PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.csproj.GenerateResource.Cache
+F:\CS 3420 - C#\CS 3420 - C# programming\#14\14_1_PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#14\14_1_PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#14\14_1_PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.Properties.Resources.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\10\10-2-PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\10\10-2-PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\10\10-2-PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\10\10-2-PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\10\10-2-PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Documents\cs2412\Lectures\10\10-2-PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.PictureBoxTestForm.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\10\10-2-PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.Properties.Resources.resources
+C:\Users\Laleh\Documents\cs2412\Lectures\10\10-2-PictureBoxTest\PictureBoxTest\obj\x86\Debug\PictureBoxTest.csproj.GenerateResource.Cache

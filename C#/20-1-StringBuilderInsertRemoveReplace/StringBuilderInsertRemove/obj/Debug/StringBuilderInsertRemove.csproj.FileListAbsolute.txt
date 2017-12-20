@@ -1,0 +1,16 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_13\StringBuilderInsertRemove\StringBuilderInsertRemove\bin\Debug\StringBuilderInsertRemove.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_13\StringBuilderInsertRemove\StringBuilderInsertRemove\bin\Debug\StringBuilderInsertRemove.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_13\StringBuilderInsertRemove\StringBuilderInsertRemove\obj\Debug\StringBuilderInsertRemove.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_13\StringBuilderInsertRemove\StringBuilderInsertRemove\obj\Debug\StringBuilderInsertRemove.pdb
+F:\CS 3420 - C#\CS 3420 - C# programming\#6\06_6_StringBuilderInsertRemove\StringBuilderInsertRemove\obj\Debug\StringBuilderInsertRemove.exe
+F:\CS 3420 - C#\CS 3420 - C# programming\#6\06_6_StringBuilderInsertRemove\StringBuilderInsertRemove\obj\Debug\StringBuilderInsertRemove.pdb
+C:\Users\Laleh\Google Drive\CS 3420 - C#\CS 3420 - C# programming\#8\06_6_StringBuilderInsertRemove\StringBuilderInsertRemove\obj\Debug\StringBuilderInsertRemove.exe
+C:\Users\Laleh\Google Drive\CS 3420 - C#\CS 3420 - C# programming\#8\06_6_StringBuilderInsertRemove\StringBuilderInsertRemove\obj\Debug\StringBuilderInsertRemove.pdb
+C:\Users\Laleh\Google Drive\CS 3420 - C#\CS 3420 - C# programming\#8\06_6_StringBuilderInsertRemove\StringBuilderInsertRemove\bin\Debug\StringBuilderInsertRemove.exe
+C:\Users\Laleh\Google Drive\CS 3420 - C#\CS 3420 - C# programming\#8\06_6_StringBuilderInsertRemove\StringBuilderInsertRemove\bin\Debug\StringBuilderInsertRemove.pdb
+C:\Users\Laleh\Google Drive\CS 3420 - C#\CS 3420 - C# programming\#8\06_6_StringBuilderInsertRemove\StringBuilderInsertRemove\obj\Debug\StringBuilderInsertRemove.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_6_StringBuilderInsertRemove\StringBuilderInsertRemove\bin\Debug\StringBuilderInsertRemove.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_6_StringBuilderInsertRemove\StringBuilderInsertRemove\bin\Debug\StringBuilderInsertRemove.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_6_StringBuilderInsertRemove\StringBuilderInsertRemove\obj\Debug\StringBuilderInsertRemove.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_6_StringBuilderInsertRemove\StringBuilderInsertRemove\obj\Debug\StringBuilderInsertRemove.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\19\06_6_StringBuilderInsertRemove\StringBuilderInsertRemove\obj\Debug\StringBuilderInsertRemove.pdb

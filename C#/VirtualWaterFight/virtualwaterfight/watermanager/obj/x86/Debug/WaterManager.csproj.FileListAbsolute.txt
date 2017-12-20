@@ -1,0 +1,14 @@
+C:\Users\Tulip\Desktop\VirtualWaterFight\WaterManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tulip\Desktop\VirtualWaterFight\WaterManager\bin\Debug\WaterManager.exe
+C:\Users\Tulip\Desktop\VirtualWaterFight\WaterManager\bin\Debug\WaterManager.pdb
+C:\Users\Tulip\Desktop\VirtualWaterFight\WaterManager\bin\Debug\Objects.dll
+C:\Users\Tulip\Desktop\VirtualWaterFight\WaterManager\bin\Debug\Objects.pdb
+C:\Users\Tulip\Desktop\VirtualWaterFight\WaterManager\obj\x86\Debug\WaterManager.exe
+C:\Users\Tulip\Desktop\VirtualWaterFight\WaterManager\obj\x86\Debug\WaterManager.pdb
+E:\VirtualWaterFight\WaterManager\bin\Debug\WaterManager.exe
+E:\VirtualWaterFight\WaterManager\bin\Debug\WaterManager.pdb
+E:\VirtualWaterFight\WaterManager\bin\Debug\Objects.dll
+E:\VirtualWaterFight\WaterManager\bin\Debug\Objects.pdb
+E:\VirtualWaterFight\WaterManager\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VirtualWaterFight\WaterManager\obj\x86\Debug\WaterManager.exe
+E:\VirtualWaterFight\WaterManager\obj\x86\Debug\WaterManager.pdb

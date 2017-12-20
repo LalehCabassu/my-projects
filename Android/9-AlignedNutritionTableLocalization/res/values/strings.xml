@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nutrition Table Localization</string>
+    <string name="menu_settings">Settings</string>
+
+    <string-array name="imageNumbers">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+    </string-array>
+	<string name="imageKey">ik</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_image_displayer">ImageDisplayer</string>
+
+</resources>

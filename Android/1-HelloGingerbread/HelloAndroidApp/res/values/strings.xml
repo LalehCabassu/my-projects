@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">HelloAndroidApp</string>
+    <string name="hello_android">Hello Gingerbread!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_hello_android">VKEDCO\'s Hello Gingerbread Activity!</string>
+    <string name="my_fist_button_text">This is my first Gingerbread button</string>
+    <string name="my_first_toast_text">This is my first Gingerbread toast!</string>
+
+</resources>

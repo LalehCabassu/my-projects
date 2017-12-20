@@ -1,0 +1,11 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\23\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\23\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\23\23-2-LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\23\23-2-LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.pdb
+C:\Users\Laleh\Documents\cs2412\Lectures\24\23-1-LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.exe
+C:\Users\Laleh\Documents\cs2412\Lectures\24\23-1-LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.pdb

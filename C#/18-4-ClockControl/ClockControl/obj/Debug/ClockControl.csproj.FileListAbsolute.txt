@@ -1,0 +1,7 @@
+C:\Users\Laleh\Desktop\ClockControl\ClockControl\bin\Debug\ClockControl.dll
+C:\Users\Laleh\Desktop\ClockControl\ClockControl\bin\Debug\ClockControl.pdb
+C:\Users\Laleh\Desktop\ClockControl\ClockControl\obj\Debug\ClockControl.csprojResolveAssemblyReference.cache
+C:\Users\Laleh\Desktop\ClockControl\ClockControl\obj\Debug\ClockControl.ClockUserControl.resources
+C:\Users\Laleh\Desktop\ClockControl\ClockControl\obj\Debug\ClockControl.csproj.GenerateResource.Cache
+C:\Users\Laleh\Desktop\ClockControl\ClockControl\obj\Debug\ClockControl.dll
+C:\Users\Laleh\Desktop\ClockControl\ClockControl\obj\Debug\ClockControl.pdb
