@@ -17,7 +17,7 @@ Finally, execute the following commands:
 $ cd <path-to-the-project-dir>
 $ python manage.py runserver
 
-In your browser: http://127.0.0.1:8000/
+In your browser: http://localhost:8000/weather/
 
 To get more information on how to run django web apps, please check out: https://docs.djangoproject.com/en/2.0/
 
