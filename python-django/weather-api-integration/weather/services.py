@@ -9,7 +9,7 @@ logger = logging.getLogger(__name__)
 
 WEATHER_API_URL = "http://api.openweathermap.org/data/2.5/weather"
 # To obtain a key, you just need to create an account on their site. It is free
-APP_ID = "replace-with-your-key"
+APP_ID = "90aa2e437263cd338605e7ec7f73c38f"
 
 
 def get_weather(enquiry_type, city_param, country_code="", temperature_unit=TemperatureUnit.CELSIUS):
